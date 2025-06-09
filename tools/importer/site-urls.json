@@ -1,0 +1,3260 @@
+{
+  "originUrl": "https://www.rundisney.com",
+  "lastCrawled": "https://www.rundisney.com/",
+  "urls": [
+    {
+      "url": "https://www.rundisney.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "8812eb405fce7d1efc4590cdf4f3140c2546a569"
+    },
+    {
+      "url": "https://www.rundisney.com/about/",
+      "source": "SITEMAPS",
+      "targetPath": "/about",
+      "id": "939e7faf2a7069ba6c5d4fd2f4da013b9f3c3ea1"
+    },
+    {
+      "url": "https://www.rundisney.com/advisory/",
+      "source": "SITEMAPS",
+      "targetPath": "/advisory",
+      "id": "6a0474925fbcf37406972a3a810e7c44a1db8b38"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog",
+      "id": "3fd1069be664998960be0cfe462662b2768c53ed"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/12ks-lace-up-merry-and-bright-2024/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/12ks-lace-up-merry-and-bright-2024",
+      "id": "bcbdad139d4083f511dd22d0c6792eea15a68f66"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2018-celebrated-charity-spotlight-second-harvest-food-bank/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2018-celebrated-charity-spotlight-second-harvest-food-bank",
+      "id": "708bf64674ef4f40ff83b426ad08ce9211add757"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2019-disneyland-paris-run-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2019-disneyland-paris-run-weekend",
+      "id": "d3c5493416a5d5a305e5affb1d1e40c786341e56"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2020-disney-princess-half-marathon-weekend-themes/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2020-disney-princess-half-marathon-weekend-themes",
+      "id": "2f68717686bf843f762249a53419f2132b0ff2bc"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2020-star-wars-virtual-half/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2020-star-wars-virtual-half",
+      "id": "63439c9107d92c588320322919f5f5b46e1064d4"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2020rundisney-registration-update/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2020rundisney-registration-update",
+      "id": "ab286d05fac62074b33b2f3a0e7216a75f0dda19"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2022-virtual-disney-princess-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2022-virtual-disney-princess-half-marathon-weekend",
+      "id": "9d9424db6d45f0f1b218b68f79aea0be4f86b92a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2023-disney-wine-dine-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2023-disney-wine-dine-half-marathon-weekend",
+      "id": "a5099aa77f3b4ff3c07e878eeea823fa5e636c94"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2023-maw/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2023-maw",
+      "id": "5df4d5c7461380b05876d3a386d2985f43583a22"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2023-runner-gift-guide/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2023-runner-gift-guide",
+      "id": "24b2d501793db45f652eb32cdc697c4b7e313c41"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2023-winedine-celebratedcharity/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2023-winedine-celebratedcharity",
+      "id": "6e724559885108456dc386f5395a7fa14f832bf0"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2024-rundisney-gift-guide/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2024-rundisney-gift-guide",
+      "id": "835f66f1579b50370e758eaf57f078a59a2fb54a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2024-rundisney-virtual-series/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2024-rundisney-virtual-series",
+      "id": "27933dec41abe6f7df8a4e36489cff4f05adddc7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2024-shokz-top-songs/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2024-shokz-top-songs",
+      "id": "9e875270abb72358b45e54f79a98b3bba84b336a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2024-wine-dine-theme-reveal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2024-wine-dine-theme-reveal",
+      "id": "c80711ad5c540c15fe4bb08fddff931079453b4d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2024-winedinehalf-charity-spotlight/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2024-winedinehalf-charity-spotlight",
+      "id": "51b2b4e10e55a456b2c5e3ac98a358ee7df851fb"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-disney-princess-half-merch-reveal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-disney-princess-half-merch-reveal",
+      "id": "33167084cca7ce999831cb98855a29c39b029130"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-disney-princess-half-weekendthemes/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-disney-princess-half-weekendthemes",
+      "id": "2502e5f5357e3b2f31d437e539cd4d91c747d664"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-disneyland-half-marathon-weekend-theme/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-disneyland-half-marathon-weekend-theme",
+      "id": "6b54f009eff95845c851722de39ecfb35a3f5761"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-dlr-half-merch-reveal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-dlr-half-merch-reveal",
+      "id": "02e6eef31dd93a495d11da118e48896000653322"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-global-running-day/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-global-running-day",
+      "id": "0bf3c973a9877103e0d8c26ee64d3ed89bf501a8"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-princess-half-charity-spotlight-starlight/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-princess-half-charity-spotlight-starlight",
+      "id": "f233352751d62b28282492fa51d568d27e325ac6"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-princess-half-otterbox/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-princess-half-otterbox",
+      "id": "2a7d40063d457d625328829f61b4c8d4b022d0da"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-rd-springtime-surprise-weekend-theme-reveal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-rd-springtime-surprise-weekend-theme-reveal",
+      "id": "9443fd189be8aca88b10f4d5684e8361e6f9bc89"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-rundisney-virtual-series/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-rundisney-virtual-series",
+      "id": "e05d9170946cbbe19389304b7b0365da5b0c1ac5"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-springtime-surprise-brooks-running-shoe-reveal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-springtime-surprise-brooks-running-shoe-reveal",
+      "id": "72dd8cc7248177afe4c821e9d7ce1c21184d8a03"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-springtime-surprise-charity-spotlight/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-springtime-surprise-charity-spotlight",
+      "id": "223636f89686231587715eff054daaed8f876a88"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-springtime-surprise-merchandise/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-springtime-surprise-merchandise",
+      "id": "5069341c7b97f7b85ce0b8ce31b3cfc95ace6313"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-virtual-series-attraction-themed-adventure/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-virtual-series-attraction-themed-adventure",
+      "id": "89cb06906967186e70de22f83049983d0089790a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-virtual-series-medal-reveal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-virtual-series-medal-reveal",
+      "id": "3997972353c183c3a789aab912b732f0ced9f746"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-walt-disney-world-marathon-merch-reveal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-walt-disney-world-marathon-merch-reveal",
+      "id": "36475097e7b18e8c579bdf63ff43f33e1958f311"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-wdw-marathon-charity-spotlight/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-wdw-marathon-charity-spotlight",
+      "id": "95551ec0cd97f8e8eae6068718575c23b816fef7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-wdw-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-wdw-marathon-weekend",
+      "id": "caf75604732d2765b12b7600b2b3eae2c832805a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2025-wine-dine-theme-reveal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2025-wine-dine-theme-reveal",
+      "id": "cd1312b37ecee235fc0b467a39dd076fd3da1349"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2026-disneyland-half-marathon-weekend-theme-reveal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2026-disneyland-half-marathon-weekend-theme-reveal",
+      "id": "cd98df1b7d57920a7fe24ffa4fa5477fdd592fa4"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2026-dlr-half-charity-spotlight/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2026-dlr-half-charity-spotlight",
+      "id": "79739b211136d565241b3148aa6f7a53b00f9cf4"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2026-princess-half-theme-reveal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2026-princess-half-theme-reveal",
+      "id": "e549d7904436073b230ed1ea728ae7336015ed2f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/2026-wdw-marathon-theme-reveal/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/2026-wdw-marathon-theme-reveal",
+      "id": "1552c53f4c7d955869c6caf2b87d196ef6d24350"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/4-magical-event--486-miles-of-totally/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/4-magical-event-486-miles-of-totally",
+      "id": "f7bdcd4ed212e9e2e22767a4a3614a3ca9931208"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/4-magical-events-and-miles-of-earidescent-style/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/4-magical-events-and-miles-of-earidescent-style",
+      "id": "b8df1c09c8803f78cb9b143b66096c2274848e33"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/4-magical-events-and-miles-of-style-at/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/4-magical-events-and-miles-of-style-at",
+      "id": "91740421679708c71a6c6a1faefcb38b06edcd97"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/4-reasons-why-disney-vacation-club-members-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/4-reasons-why-disney-vacation-club-members-race",
+      "id": "b308cf8924443a805505eeae8f33a2d7e853d497"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/486-miles-of-magical-style-at-2019-walt/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/486-miles-of-magical-style-at-2019-walt",
+      "id": "5ac737009e728037b4a94171b127d36707777f53"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-delectable-set-of-race-themes-for-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-delectable-set-of-race-themes-for-the",
+      "id": "ebb94ec671e92725567446872e94d7ef91c95ebe"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-perfect-recipe-for-style-at-the-2018-disney-wine-dine-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-perfect-recipe-for-style-at-the-2018-disney-wine-dine-half-marathon-weekend",
+      "id": "dafbcb974224abf16e5fc16ec4c92651383fa47f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-picture-is-worth-1000-miles/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-picture-is-worth-1000-miles",
+      "id": "7a4d1c58f28c337b40ff38916848068de2525f8a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-picture-perfect-rundisney-cast-member-spotlight/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-picture-perfect-rundisney-cast-member-spotlight",
+      "id": "e787328e1c036802f5fafbef56697a81a59d1fde"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-rundisney-runner-gift-guide-for-the-most/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-rundisney-runner-gift-guide-for-the-most",
+      "id": "cdba9146b7a48bc70bede77105fb1c19b5787d90"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-sixstep-recipe-to-help-you-run-your/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-sixstep-recipe-to-help-you-run-your",
+      "id": "a13827cc3d38a0109e46b972091dce62b4da4054"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-sorcerous-rundisney-style-diy/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-sorcerous-rundisney-style-diy",
+      "id": "719d2a7d30dca1990eac5aeaa19953a95cef3239"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-spectators-guide-to-the-2019-star-wars/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-spectators-guide-to-the-2019-star-wars",
+      "id": "af6712dc03b99e28e519cf9da946878e5bd19f1c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-spectators-royal-guide-to-the-2019-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-spectators-royal-guide-to-the-2019-disney",
+      "id": "b8500d7575c56a70586be754766232a135f70d26"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-spectators-royal-guide-to-the-2020-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-spectators-royal-guide-to-the-2020-disney",
+      "id": "6a2872bce2d8cf3a5c4c7186f22dcd92d961e256"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-totally-rad-30-year-celebration-for-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-totally-rad-30-year-celebration-for-the",
+      "id": "cd2f3fec15d3951c671a714915261f3459b75fbe"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-villainous-return-to-disneyland-resort-with-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-villainous-return-to-disneyland-resort-with-the",
+      "id": "9aebcc98145903762da4b3af3a8dfb543dd415ab"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-villainous-workout-tunes-roundup-for-the-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-villainous-workout-tunes-roundup-for-the-disney",
+      "id": "edbd4532a3034074271bbdd22eab8be64be782ca"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-wickedly-delicious-rundisney-style-diy-for-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-wickedly-delicious-rundisney-style-diy-for-the",
+      "id": "c3d6fd38747f53b8178727f233112c62ccf5ec42"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-wickedly-delicious-runner-recipe-with-impossible-foods/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-wickedly-delicious-runner-recipe-with-impossible-foods",
+      "id": "2ac46a907a5cf6005bfc7b68971653582889b9c5"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/a-wickedly-wonderful-look-at-disney-wine-/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-wickedly-wonderful-look-at-disney-wine",
+      "id": "dfb3db4d9fc01e90d85e42cf833b14fc494e37c6"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/add-a-touch-of-rundisney-to-your-holiday/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/add-a-touch-of-rundisney-to-your-holiday",
+      "id": "21c7d3cb736d59b5068f072485c44179baae4a69"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/add-extra-magic-to-your-runcation-when-you/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/add-extra-magic-to-your-runcation-when-you",
+      "id": "061b7b4d53d875e5175e81ffb3827a29c0bf6cae"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/add-love-to-love-on-the-run-14miler/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/add-love-to-love-on-the-run-14miler",
+      "id": "9bbe7fb4d57dbd6d2f83fb81b56d4edf8201becd"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/add-rundisney-magic-to-holiday-dcor-with-festive/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/add-rundisney-magic-to-holiday-dcor-with-festive",
+      "id": "3a8f2de341e45b4dcf674e044ee868dce4705fe5"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/add-some-character-to-training-with-walt-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/add-some-character-to-training-with-walt-disney",
+      "id": "012f9191c6548a4e9d4c200ffdc48b780d0ca3f3"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/an-unforgettable-showcase-celebration-for-the-2022-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/an-unforgettable-showcase-celebration-for-the-2022-disney",
+      "id": "dc8d21f0f9e53e883bb1bb5f867b0a462877f84b"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/around-the-rundisney-community--magical-home-decor/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/around-the-rundisney-community-magical-home-decor",
+      "id": "a51278e886de6f8ea5e68f8cc516f962533308ef"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/be-race-weekend-ready-with-new-rundisney-digital/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/be-race-weekend-ready-with-new-rundisney-digital",
+      "id": "327335e06147fba9fae96a702a3aae3f73343821"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/be-royal-ready-for-the-rundisney-2024-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/be-royal-ready-for-the-rundisney-2024-disney",
+      "id": "7314587c7e01b1e5127dd225a13f6f6c7e32c5f9"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/be-royal-ready-with-your-running-tunes-for/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/be-royal-ready-with-your-running-tunes-for",
+      "id": "8dc9e51c05a2e4dd1b2181a8af5fce87e7b4b4f4"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/behind-the-design-2019-walt-disney-world-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/behind-the-design-2019-walt-disney-world-marathon",
+      "id": "9abecbf67d6d9416f977bdbd2a1630f025b017e2"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/bibidi-bobidi-bling-a-cinderellainspired-rundisney-style-for/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/bibidi-bobidi-bling-a-cinderellainspired-rundisney-style-for",
+      "id": "8d7add274107f5a4bed78897b3f6d1b651051fc0"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/bring-a-new-groove-to-the-virtual-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/bring-a-new-groove-to-the-virtual-disney",
+      "id": "8fb624607802ef7fa8f5e4e8265480195919a44a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/charities/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/charities",
+      "id": "7b844b8417873e7e168c1a7af83daaa2ddf0163f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/disney-princess-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/disney-princess-half-marathon-weekend",
+      "id": "094a17541da396cc304ff02a0de5ca6892fb0aca"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/disney-wine-and-dine-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/disney-wine-and-dine-half-marathon-weekend",
+      "id": "ed80094dea9c4bf7ec2213c85b349e95cd9d7b8d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/disneyland-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/disneyland-half-marathon-weekend",
+      "id": "694bc0f9d73f61efaabd3b8e6c29f801eba80810"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/disneyland-paris-magic-run-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/disneyland-paris-magic-run-weekend",
+      "id": "6b315da798964b1f8438b9e17489359605fb310e"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/disneyland-resort/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/disneyland-resort",
+      "id": "bdc8f0f1b95176ff76ea8065ef867adc7859b99f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/international-races/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/international-races",
+      "id": "268851ff20b94382b5844c743be7db154d47cbdd"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/lifestyle/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/lifestyle",
+      "id": "5a6158d3d2a099796a196b5b6a85e3369796a8d6"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/medals/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/medals",
+      "id": "ad7049601ac8c84cb51c16425f77af042162653b"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/news-and-updates/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/news-and-updates",
+      "id": "9b6b2fe74181862fbadef4aa09e7495d80fdf51d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/rundisney-springtime-surprise-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/rundisney-springtime-surprise-weekend",
+      "id": "14a46c706e86875cd6bedcd91a34c8c03432ddc8"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/star-wars-rival-run-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/star-wars-rival-run-weekend",
+      "id": "89c1db99995e2ca74d4c594b8fb29064559a427c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/training/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/training",
+      "id": "711cdb9f03ac467206212ae60e1880baec1bc5d9"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/virtual-races/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/virtual-races",
+      "id": "32502d2488a2413765ba661922a6f0d5f8fc4b56"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/walt-disney-world-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/walt-disney-world-marathon-weekend",
+      "id": "08dfc7b3d3ef01ffc8420d4b2ce8061bebd7511f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/category/walt-disney-world-resort/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/walt-disney-world-resort",
+      "id": "f8099723928be0a0a480edcc9c860fcd294a0c6c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-at-disney-springs-during-the-2022-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-at-disney-springs-during-the-2022-disney",
+      "id": "a5457ae0afb756467262b151965e7c0d34c024bc"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-at-disney-springs/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-at-disney-springs",
+      "id": "9dfcb5263f2fa926f3dc87e4f45d47d8abcc45cf"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-disney-day-and-add-a-little-character/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-disney-day-and-add-a-little-character",
+      "id": "18a7032eace58f37c271e4726ad4e98cfcfbef8c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-earth-day-with-a-little-rundisney-runspiration/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-earth-day-with-a-little-rundisney-runspiration",
+      "id": "c43255f89acd70767fb66fb9610557636b0086f2"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-epic-rivalries-with-the-2020-star-wars/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-epic-rivalries-with-the-2020-star-wars",
+      "id": "f28adcc3d2832daa9190c2dcd6367f04413b2fef"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-frozen-2-with-a-rundisney-style-diy/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-frozen-2-with-a-rundisney-style-diy",
+      "id": "b38b4dc1d76e698c5b92bd7bc4a4b16f06fefaf2"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-in-royal-fashion-at-disney-springs-during/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-in-royal-fashion-at-disney-springs-during",
+      "id": "1e0e99b6a4a77db080695fdc04bf5c822e2f4b14"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-international-dog-day-with-tips-for-running/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-international-dog-day-with-tips-for-running",
+      "id": "cedff85769269fc101fc4fc7f50c630bf55fbbd2"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-the-50th-anniversary-of-the-walt-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-the-50th-anniversary-of-the-walt-disney",
+      "id": "86d021ab095a08c841aad1708a8ca66d88f32d2e"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-the-disney-parks-at-home-with-therundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-the-disney-parks-at-home-with-therundisney",
+      "id": "86502df4eaf896037d64ddaf2d43418e0ebef57c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-the-most-runderful-time-of-the-year/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-the-most-runderful-time-of-the-year",
+      "id": "076b52a0fcecef6d0a11410effec5d2283677567"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-the-spirit-of-togetherness-during-the-2024/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-the-spirit-of-togetherness-during-the-2024",
+      "id": "dce5072e80002ba19adebec32265795673c198fa"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-world-princess-week-with-a-roundup-of/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-world-princess-week-with-a-roundup-of",
+      "id": "f1d133ba571e4a80ddf9e358a67e24fe3977e79f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrate-your-virtual-series-accomplishments-with-a-flurry/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrate-your-virtual-series-accomplishments-with-a-flurry",
+      "id": "bb1dc4d099759b3921f01b892d7b07286fb75938"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrated-charity-spotlight--the-leukemia--lymphoma/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrated-charity-spotlight-the-leukemia-lymphoma",
+      "id": "be4afbeb41e2c6a684fc637f22bf192272266834"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrated-charity-spotlight-girl-scouts-of-citrus-council/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrated-charity-spotlight-girl-scouts-of-citrus-council",
+      "id": "ff837d85459f82500b5c332ab5f66888342c043e"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrated-charity-spotlight-leukemia-lymphoma-society/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrated-charity-spotlight-leukemia-lymphoma-society",
+      "id": "c6dc7d25071135dd7f5fcc5d6e2a97f4409b95ac"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrated-charity-spotlight-makeawish-central-and-northern-florida/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrated-charity-spotlight-makeawish-central-and-northern-florida",
+      "id": "930e2e959af7630d057b33c7a103b046a9eca6ac"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrated-charity-spotlightstarlight-childrens-foundation/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrated-charity-spotlightstarlight-childrens-foundation",
+      "id": "4e8bd59f629cec0ea10b0166afeeaac44c1ffd14"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrating-15-magical-years-during-the-2023-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrating-15-magical-years-during-the-2023-disney",
+      "id": "0579587d9abcd6971c9118489ef4f5db95210316"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrating-626-day-with-the-reveal-of-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrating-626-day-with-the-reveal-of-the",
+      "id": "55132b5314d5d69a3a00914a2a01a224587fb4fb"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrating-makeawish-at-star-wars-half-marathon-/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrating-makeawish-at-star-wars-half-marathon",
+      "id": "fb0d93c25e0d239fc25d36715b98e185fb1a2543"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrating-our-charities-from-the-202122-race-season/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrating-our-charities-from-the-202122-race-season",
+      "id": "68ceee7b72bd972d7e67fda3cdfe83c29847eac9"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/celebrating-the-wonder-of-encanto-with-the-2023/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/celebrating-the-wonder-of-encanto-with-the-2023",
+      "id": "ecbbe1f9cc3a00ab2264fe5da5a4d19e25f07deb"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/charming-rundisney-style-for-the-2019-disney-wine/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/charming-rundisney-style-for-the-2019-disney-wine",
+      "id": "d4900adc7933608e952334e310248d1f979eabca"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/charming-rundisney-style-for-the-2020-disney-princess/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/charming-rundisney-style-for-the-2020-disney-princess",
+      "id": "9a8086f8227afc728eeac6b4a10a144bd26fd217"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/chears-to-a-weekend-of-miles-and-memories/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/chears-to-a-weekend-of-miles-and-memories",
+      "id": "eb6c32dfa2657a8cc89656e118906a002df03c48"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/childrens-miracle-network-hospitals-miracle-maker-spotlight-every/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/childrens-miracle-network-hospitals-miracle-maker-spotlight-every",
+      "id": "d8a3d090364909e6b29dea5cef55c8f7588c8046"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/complete-your-virtual-star-wars-rival-run-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/complete-your-virtual-star-wars-rival-run-weekend",
+      "id": "6e853714f0c02f014efaacbd57a5311ee56645b0"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/cool-down-this-summer--beat-the-heat/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/cool-down-this-summer-beat-the-heat",
+      "id": "4fa6aeadde3b367100f3d8fbcfb1cf8c0c07aba2"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/dazzling-things-to-celebrate-your-upcoming-disney-princess/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/dazzling-things-to-celebrate-your-upcoming-disney-princess",
+      "id": "0161a5dcea599fd39938019fecdbe8c2d9cce569"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/delectable-miles-and-tasty-style-at-the-2019/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/delectable-miles-and-tasty-style-at-the-2019",
+      "id": "08d423f3d59c037acebcd621b9d879cd2132b589"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/delectable-style-at-disney-wine--dine-half/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/delectable-style-at-disney-wine-dine-half",
+      "id": "1ce4f7369778f3308c95117b7e035cf410d17bc2"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/discover-your-inner-hero-during-the-2024-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/discover-your-inner-hero-during-the-2024-disney",
+      "id": "cfaa6268e8d1d1692fa255d15a797d3a50c8fd46"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/disney-ralph/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/disney-ralph",
+      "id": "652005abf041c49c57adb675c2be1fb4a263eb5c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/disney-springs-during-the-princess-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/disney-springs-during-the-princess-half-marathon-weekend",
+      "id": "aa67eae33552c9f95bbef92c8afc2ce7ac85891d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/disney-villains-wicked-tunes-roundup-for-your-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/disney-villains-wicked-tunes-roundup-for-your-disney",
+      "id": "9e5e4109958543b1388702f4aac2f76e688f5480"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/disney-wine--dine-half-marathon-weekend-expo/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/disney-wine-dine-half-marathon-weekend-expo",
+      "id": "985a6d08330c89430ae61972f751929f170d7ae0"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/disneyland-halloween-2024/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/disneyland-halloween-2024",
+      "id": "2a14ee5f0697eae9db37a18a369abefa4ba6ce41"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/dive-into-postrace-fun-during-the-rundisney-springtime/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/dive-into-postrace-fun-during-the-rundisney-springtime",
+      "id": "5a1804dac2b1071a523fce09652a5a191ed2de87"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/diy-glass-slipperworthy-shoe-for-disney-princess-half/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/diy-glass-slipperworthy-shoe-for-disney-princess-half",
+      "id": "bff80b72fc05cbe85735182b484fd5b31c9665e6"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/do-you-remember-the-mile/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/do-you-remember-the-mile",
+      "id": "039b6cfdfabfd769d8a96a919185e51c3b35e85c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/dopey-challenge-style/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/dopey-challenge-style",
+      "id": "bb23e917f016922e614ae24abb84f78b68c901f1"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/elevate-race-day-with-obsessionworthy-corkcicle-essentials/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/elevate-race-day-with-obsessionworthy-corkcicle-essentials",
+      "id": "0ebf67a22c5cea2fbdeb4f9fbc9f8bdf246b3e89"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/elevating-your-disneyland-halloween-half-marathon-weekend-training/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/elevating-your-disneyland-halloween-half-marathon-weekend-training",
+      "id": "9c40627e3832feee3f8c5a995d1d66f21a5c91b0"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/embrace-the-adventure-during-the-rundisney-2024-rundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/embrace-the-adventure-during-the-rundisney-2024-rundisney",
+      "id": "9311d54e5d232c0a6500f140bf17717a6aff3ced"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/enjoy-the-ultimate-princess-celebration-during-the-2022/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/enjoy-the-ultimate-princess-celebration-during-the-2022",
+      "id": "c10cd372e49295ec468e6727020be7e2d14e2e77"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/enjoy-your-runcation-during-the-worlds-most-magical/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/enjoy-your-runcation-during-the-worlds-most-magical",
+      "id": "b613bc1f3bad10c7e528ac937fc125cee23db7c1"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/exciting-changes-coming-to-the-2020-walt-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/exciting-changes-coming-to-the-2020-walt-disney",
+      "id": "9e7677363c76a4bf186baa471ec5d059057ae452"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/fairytale-miles--style-at-the-2022-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/fairytale-miles-style-at-the-2022-disney",
+      "id": "7b004988b4993922d85503e3aabba7a799ba39e7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/fairytale-style-at-2020-disney-princess-half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/fairytale-style-at-2020-disney-princess-half-marathon",
+      "id": "ce9529c22f13b094a7dc3d27b2f1d627d65682e4"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/fall-in-love-with-new-rundisney-virtual-love/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/fall-in-love-with-new-rundisney-virtual-love",
+      "id": "f0dd4f005fb2992533ce1b076ff0b5a243fafc91"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/feel-the-music-with-tunes-perfect-for-your/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/feel-the-music-with-tunes-perfect-for-your",
+      "id": "67f3ef46c0ac6817ba00bc191a82b142f191dca8"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/finding-inspiration-to-get-back-up-after-falling/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/finding-inspiration-to-get-back-up-after-falling",
+      "id": "8eb86edbe484e5776911271949c3af58af3fccf3"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/food-for-fuel-what-to-eat-before-you/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/food-for-fuel-what-to-eat-before-you",
+      "id": "fec911e65e87b9dd432319b81baebfe7fa7ab007"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/frightfully-fabulous-medals-for-the-2024-disneyland-halloween/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/frightfully-fabulous-medals-for-the-2024-disneyland-halloween",
+      "id": "8a6b94f0e50eef44a7c395bd8a1a0ae92b0f76d7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/fulfill-your-running-destiny-at-the-2018-star/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/fulfill-your-running-destiny-at-the-2018-star",
+      "id": "ba0df1385548acd9b8f1715aca942f857810b624"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/gear-up-for-black-widow-with-a-rundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/gear-up-for-black-widow-with-a-rundisney",
+      "id": "e705621c1d04af35927fad1d33624ea89bbf1e2e"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/gear-up-for-starwarsrivalrunvirtual-with-otterbox/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/gear-up-for-starwarsrivalrunvirtual-with-otterbox",
+      "id": "d1889a55daae41b5a92bbdbbd4f638b449117994"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/gear-up-for-wdwmarathonvirtual-with-otterbox/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/gear-up-for-wdwmarathonvirtual-with-otterbox",
+      "id": "1a1d71beae647aec571731e90f0eade3c9c58be7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/gear-up-for-winedinehalf-weekend-with-aftershokz/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/gear-up-for-winedinehalf-weekend-with-aftershokz",
+      "id": "ca473ccff39a00304240a0d14c19faa669f338c7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/gear-up-to-celebrate-global-running-day-with/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/gear-up-to-celebrate-global-running-day-with",
+      "id": "f7ca375296ff3006b973537a8b6ad9733c3b4886"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/get-excited-for-2025-springtime-surprise/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/get-excited-for-2025-springtime-surprise",
+      "id": "3a2509db4f04ad8a449f281ab6d72dbf7c571edf"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/get-jazzed-for-the-rundisney-2022-disney-wine/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/get-jazzed-for-the-rundisney-2022-disney-wine",
+      "id": "7a1f1f31a93dddef9ca94b1425172668613869ca"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/get-motivated-for-the-disney-princess-half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/get-motivated-for-the-disney-princess-half-marathon",
+      "id": "a17b07119304818bfee75043c343bb518a36da8c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/get-movin-and-groovin-with-enterprise-during-walt/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/get-movin-and-groovin-with-enterprise-during-walt",
+      "id": "17d2e7d73c1d9d2651484eedfec1dae839ea79a5"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/get-ready-for-a-ghoulishly-good-time-during/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/get-ready-for-a-ghoulishly-good-time-during",
+      "id": "486fc8c84bd6df303a53b55a76ce5eaa8a4a05c4"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/get-ready-for-a-royal-race-weekend-as/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/get-ready-for-a-royal-race-weekend-as",
+      "id": "dae123a4c58935fac42c961fb490894f93686013"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/get-ready-for-a-royal-weekend-as-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/get-ready-for-a-royal-weekend-as-the",
+      "id": "ab71155cc4a865c65bc45439413d999cd80bf1c8"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/get-ready-for-a-runderful-event-weekend-with/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/get-ready-for-a-runderful-event-weekend-with",
+      "id": "d145d75126e331f9dfd13d224d3ac9b6518c5ef0"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/get-ready-for-magical-miles--more-during/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/get-ready-for-magical-miles-more-during",
+      "id": "b55fdb5240030a8fb0655dd85bfc269efc0d99f5"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/get-ready-to-go-the-distance-during-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/get-ready-to-go-the-distance-during-the",
+      "id": "1f522e380a632185249d2bb10beb46099405f1bd"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/give-a-chear-as-the-2022-walt-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/give-a-chear-as-the-2022-walt-disney",
+      "id": "d1dee34baee74725158ede1cdbd3011ce4007622"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/give-your-runner-a-chear-spectators-guide/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/give-your-runner-a-chear-spectators-guide",
+      "id": "ff26da7a8c141782e28b75cb1c3aa34e0c29dc4e"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/give-your-running-tunes-some-character-for-your/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/give-your-running-tunes-some-character-for-your",
+      "id": "19aa8c2ad1533bbbd369d94c2e6e353e02097fbe"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/global-running-day/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/global-running-day",
+      "id": "fe91957997a8346baec84b3363113b60cea11830"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/go-the-distance-with-mickey--friends-during/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/go-the-distance-with-mickey-friends-during",
+      "id": "0ef5147f59f707ede96bfcdebfbfa9c28d150ef6"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/goofy-rundisney-style-for-the-virtual-2021-walt/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/goofy-rundisney-style-for-the-virtual-2021-walt",
+      "id": "004ca2ba40713b5331ce8da4685b5b986185ec2d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/guide-to-2018-disney-wine-and-dine-half-marathon-weekend-expo/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/guide-to-2018-disney-wine-and-dine-half-marathon-weekend-expo",
+      "id": "6cbf8787ed51e646db1b8827f1e2b921335ddd71"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/have-a-picture-perfect-rundisney-race-weekend-with/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/have-a-picture-perfect-rundisney-race-weekend-with",
+      "id": "5cbd07b2c6243d4351ef3000e19234cc00a93b7f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/have-a-pixarfilled-runcation-at-walt-disney-world/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/have-a-pixarfilled-runcation-at-walt-disney-world",
+      "id": "3694398cd430128afd2033e54740596df2384415"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/have-a-roaring-good-time-during-the-rundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/have-a-roaring-good-time-during-the-rundisney",
+      "id": "bf7566294a73955bf5efd7596161c80808090773"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/have-a-very-sweet-rundisney-pineapple-whip-soft/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/have-a-very-sweet-rundisney-pineapple-whip-soft",
+      "id": "7d1572671dd927e8a180896b2df8d26732e97f62"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/have-a-wicked-good-time-during-the-rundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/have-a-wicked-good-time-during-the-rundisney",
+      "id": "24d2ad1152585c05eb3f498fefab1dcb00c5f39e"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/have-a-wild-virtual-series-celebration-during-your/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/have-a-wild-virtual-series-celebration-during-your",
+      "id": "69851ff89e4bb743239d7f77cda46aa2a70faa28"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/have-a-worryfree-rundisney-virtual-5k-with-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/have-a-worryfree-rundisney-virtual-5k-with-race",
+      "id": "4453e1e715cb249ae7c2778550f4c64cc6a3cf40"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/have-the-best-run-ever-during-the-2021/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/have-the-best-run-ever-during-the-2021",
+      "id": "c58b569c6790af06845e67f41cf3cbba1f6684a3"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/have-the-most-impressive-virtual-star-wars-rival/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/have-the-most-impressive-virtual-star-wars-rival",
+      "id": "8d8678c07fd1467dff749f7d00a9541878b43308"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/have-the-most-villainous-run-during-the-2020/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/have-the-most-villainous-run-during-the-2020",
+      "id": "654e3eb67c2a84f62a11534948788c4cf18b45be"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/have-the-ultimate-princess-runcation-at-walt-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/have-the-ultimate-princess-runcation-at-walt-disney",
+      "id": "0805c99c71a383a53082b02c068ce4eb94b60a4a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/healthy-recipes-for-runners--eggstraordinary-california-avocado/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/healthy-recipes-for-runners-eggstraordinary-california-avocado",
+      "id": "a56acba4b01c987f13ccb6b41d4437e567a075e6"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/healthy-recipes-for-runners--lemony-pesto-pasta/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/healthy-recipes-for-runners-lemony-pesto-pasta",
+      "id": "74bb4b73784aef6743cbd6605972028f02252d80"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/healthy-recipes-for-runners--peanut-butter-overnight/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/healthy-recipes-for-runners-peanut-butter-overnight",
+      "id": "570044fa03f80142a51be3672fce71e5f4800805"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/healthy-recipes-for-runners--pumpkin-cranberry-granola/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/healthy-recipes-for-runners-pumpkin-cranberry-granola",
+      "id": "ad738d908c7be6e6e3510720d1ab5dd708dfe755"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/its-a-running-world-after-all-with-a/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/its-a-running-world-after-all-with-a",
+      "id": "de262ad683f98b0655c46770ceeda784ccef4c33"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/july-miles-are-melting-away-during-the-rundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/july-miles-are-melting-away-during-the-rundisney",
+      "id": "9b44da86b51e91ead6355f8c19cf95707a83b6d8"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/just-keep-training-with-pixar-content-to-stream/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/just-keep-training-with-pixar-content-to-stream",
+      "id": "e38489d0e6e6b2377b902695699f5686e307bea3"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/key-stretches-for-runners/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/key-stretches-for-runners",
+      "id": "9e35f724c694062abf708dd240b28cb32c9a25bf"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/kick-off-your-2023-rundisney-springtime-surprise-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/kick-off-your-2023-rundisney-springtime-surprise-weekend",
+      "id": "0443bc0874b434b589f9526c5731d932330f85fb"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/lace-up-this-fall-for-the-club-rundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/lace-up-this-fall-for-the-club-rundisney",
+      "id": "bae4d0b30537ae8625d43bceda831b4b86596dda"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/launch-into-your-training-with-a-buzzworthy-rundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/launch-into-your-training-with-a-buzzworthy-rundisney",
+      "id": "74c32edf58c14f76a80e53d14f65d0ea9981ea57"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/long-runs-hot-days--warm-weather-training/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/long-runs-hot-days-warm-weather-training",
+      "id": "09835d191f2e2b78cd3b9aa502b7269938604109"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/magical-miles--more-return-to-disneyland-resort/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/magical-miles-more-return-to-disneyland-resort",
+      "id": "c1d18611732c606a4fd49d44e8ea154765c3a32c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/make-a-final-run-to-the-virtual-2021/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/make-a-final-run-to-the-virtual-2021",
+      "id": "e8e7536db69d3285e361f125259b8c9b3c73ecb5"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/make-athome-magic-with-the-rundisney-kids-races/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/make-athome-magic-with-the-rundisney-kids-races",
+      "id": "39cd048d52938ca15f277db085edbc84c88a1648"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/make-waves-during-the-virtual-disney-wine-/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/make-waves-during-the-virtual-disney-wine",
+      "id": "6c904371e1803adab1f1190344548b385685760f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/make-your-miles-merry-with-a-rundisney-style/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/make-your-miles-merry-with-a-rundisney-style",
+      "id": "204c97e65f6ab6f5f2d045c49a84a7a47e664a2a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/make-your-race-day-dreams-come-true-with/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/make-your-race-day-dreams-come-true-with",
+      "id": "06d54c95f72b524e4799d255370482c20739905d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/make-your-rundisney-virtual-12ks-of-christmas-miles/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/make-your-rundisney-virtual-12ks-of-christmas-miles",
+      "id": "d7ae8a47433888406c966d259fa09ec4b982c79f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/makeawish-staff-member-fund-races-her-way-into/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/makeawish-staff-member-fund-races-her-way-into",
+      "id": "57cf713d1a654b79e52d3e8d644cb7a60bdd281b"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/marathon-nutrition-on-the-course/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/marathon-nutrition-on-the-course",
+      "id": "12a27335e57ea87404fa3828c89cedcb1b631ff6"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/materialize-your-miles-in-rundisney-style-with-haunted/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/materialize-your-miles-in-rundisney-style-with-haunted",
+      "id": "a0e4e01307e6810e0a56326ca3adddfb0a8cc8f4"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/miles-memories-and-magical-style-at-2018-walt/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/miles-memories-and-magical-style-at-2018-walt",
+      "id": "c0b57b8f2a14f84bbeb9b3054f16513a8f528b89"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/miles-of-chear-a-spectators-guide-to-2019/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/miles-of-chear-a-spectators-guide-to-2019",
+      "id": "d0c4713f649976dc3e7f70e9b3a07d5ad4f6f6d3"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/more-magical-than-ever-25-years-running-with/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/more-magical-than-ever-25-years-running-with",
+      "id": "d1088171a7ed6818673becd845d6ef9d190a579a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/national-pasta-day-2019-best-places-to-carb/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/national-pasta-day-2019-best-places-to-carb",
+      "id": "2ca5229e5d17f1484063b5e37492efbab07b398a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/no-jedi-needed-for-a-virtual-2021-star/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/no-jedi-needed-for-a-virtual-2021-star",
+      "id": "b0ae1a1711930f91a2297a2417ecded43dbfdba0"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/now-announcing-club-rundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/now-announcing-club-rundisney",
+      "id": "275ae5088b041a542d5e89e503f295da0ce06c57"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/nutrition/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/nutrition",
+      "id": "56092318341bb2c50d395d822659b732bab92c7c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/off-to-a-running-start--an-inside/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/off-to-a-running-start-an-inside",
+      "id": "2dcffadcfbc300ab21f97b7db9c138bb8630028d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/part-1-runner-problems--questions-youve-always/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/part-1-runner-problems-questions-youve-always",
+      "id": "db6257c7a7eb87c8ba28bbc01b18145d7941971e"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/part-2-runner-problems--questions-youve-always/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/part-2-runner-problems-questions-youve-always",
+      "id": "3c4a8b25415cc0a6946466ed1841e7f38fe35444"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/prepare-to-rule-the-road-with-off/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/prepare-to-rule-the-road-with-off",
+      "id": "85902e694a4cd7e053ab61bcd85600483ad2b326"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/prepare-your-appetite-for-the-rundisney-2023-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/prepare-your-appetite-for-the-rundisney-2023-disney",
+      "id": "bb685cef09a2e4b728b8236a6a3c24158e59eb31"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/princess-and-villain-shoe-charms/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/princess-and-villain-shoe-charms",
+      "id": "24a4fdbdc934c7de7c4fc2d632f0967472a1d300"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/quiz-which-aftershokz-headphone-are-you-based-on/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/quiz-which-aftershokz-headphone-are-you-based-on",
+      "id": "aac462a07ecfbcdb6e85ac500b44e852af493a7c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/race-day-mantras-for-disneys-wine--dine/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/race-day-mantras-for-disneys-wine-dine",
+      "id": "529b520b2c87693ea3001ac85be910c6fae91e9b"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/race-day-style-was-in-full-bloom-during/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/race-day-style-was-in-full-bloom-during",
+      "id": "5cde9a35416f660bba9fdc7938fd347ad75e2c78"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/race-etiquette-to-prepare-your-appetite-for-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/race-etiquette-to-prepare-your-appetite-for-the",
+      "id": "1de9a7d17d72209f42fe7ed30100fe7c67ae921f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/race-then-relax-celebrate-your-race-weekend-with/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/race-then-relax-celebrate-your-race-weekend-with",
+      "id": "923f219fd2d239f2f9b1b4fda4c5e710a7af53ab"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/race-then-relax-celebrate-your-rundisney-springtime-surprise/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/race-then-relax-celebrate-your-rundisney-springtime-surprise",
+      "id": "19355b4fd780930bcb12ad1d7651a40fb628f35e"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/ready-set-go-registration-dates-for-the-20222023/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/ready-set-go-registration-dates-for-the-20222023",
+      "id": "e0ddcfc81074b20d6cff24782b2d047438a9bb84"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/ready-set-shop-event-weekend-merchandise-with-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/ready-set-shop-event-weekend-merchandise-with-the",
+      "id": "a6504f36027eb38591bdd630571114484de44769"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/ride-along-with-adventhealth-meet-the-medical-bike/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/ride-along-with-adventhealth-meet-the-medical-bike",
+      "id": "701d2d80f1bd88efab0b40066a4153514c24fdf1"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rivalrous-style-at-2019-star-wars-rival-run/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rivalrous-style-at-2019-star-wars-rival-run",
+      "id": "ba826b998a67901f9c2eed87647cec35af743170"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/royal-runner-recipes-wayfinder-bread/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/royal-runner-recipes-wayfinder-bread",
+      "id": "205d6b06aed25224a357930fde7d884b0f128b04"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/royal-training-mantras-from-the-disney-princesses/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/royal-training-mantras-from-the-disney-princesses",
+      "id": "ee060c52a421cf5e5dc49b9d2270c95731734455"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/royaltyworthy-styles-at-2018-disney-princess-half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/royaltyworthy-styles-at-2018-disney-princess-half-marathon",
+      "id": "5778e4379e86ffd749f874c0c91d64d612ecfca3"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/run-in-wild-style-during-the-2021-rundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/run-in-wild-style-during-the-2021-rundisney",
+      "id": "9d57e4bf15e47ef92f60aa70cfc5d96bb223691a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/run-like-royalty-during-the-2021-virtual-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/run-like-royalty-during-the-2021-virtual-disney",
+      "id": "79d266870a0e90118e383aab7437945a139419e9"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/run-with-rundisney-virtually/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/run-with-rundisney-virtually",
+      "id": "b9b52c19f0088149de3ac9d7e6d11106c563d473"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-celebrate-charity-spotlight--turning-pain-into/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-celebrate-charity-spotlight-turning-pain-into",
+      "id": "121254fc0971da03c2300ffdb408225c5b9f161d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-celebrated-charity-spotlight--about-childrens-miracle/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-celebrated-charity-spotlight-about-childrens-miracle",
+      "id": "ebd97e4a584a6e3d6970823509bbd7e6e86ca1f5"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-celebrated-charity-spotlight--childrens-miracle-network/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-celebrated-charity-spotlight-childrens-miracle-network",
+      "id": "88b1e7c2c7859f80046670499c86c5f1fbbc35be"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-celebrated-charity-spotlight-anaheim-community-foundation/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-celebrated-charity-spotlight-anaheim-community-foundation",
+      "id": "e3d026478c6d6fdb2886cb0fdb1587575a8f32b5"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-celebrated-charity-spotlight-caterinas-club/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-celebrated-charity-spotlight-caterinas-club",
+      "id": "bb3cae6b1a3184337d03dd4a52c7cb98b9e4880c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-celebrated-charity-spotlight-makeawish-central--northern/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-celebrated-charity-spotlight-makeawish-central-northern",
+      "id": "c9899df793a46f02e4e3fc9ddf6bfd9603d22e44"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-celebrated-charity-spotlight-second-harvest-food-bank/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-celebrated-charity-spotlight-second-harvest-food-bank",
+      "id": "0f8fefa858ff4f3158f3d05e8aa7fc5201923acf"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-celebrated-charity-spotlight-starlight-childrens-foundation-/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-celebrated-charity-spotlight-starlight-childrens-foundation",
+      "id": "1874829aad915797af659d4e8bac48b7068835b9"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-celebrated-charity-spotlight-starlight-childrens-foundation/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-celebrated-charity-spotlight-starlight-childrens-foundation",
+      "id": "788ed9e36904639a26ec12bceecbe14495cbf1b6"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-celebrated-charity-spotlight-toys-for-tots/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-celebrated-charity-spotlight-toys-for-tots",
+      "id": "8dc4ebfc7e7fc9814e042d1198d5620d57c2fc82"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-charity-spotlight-miles-with-meaning--childrens/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-charity-spotlight-miles-with-meaning-childrens",
+      "id": "6fd3d311c445731dc6b98ce622d49db8fa94c8bb"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-charity-spotlight-outrunning-hunger-with-second-harvest/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-charity-spotlight-outrunning-hunger-with-second-harvest",
+      "id": "62381bdc99c38ff46007f181c00b05a19131ce1d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-charity-spotlight-team-in-training--the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-charity-spotlight-team-in-training-the",
+      "id": "c08791dbc317f4cf0493cb5adf00b09edb376dcf"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-community-makes-a-positive-impact/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-community-makes-a-positive-impact",
+      "id": "80adcdf719a1fa53756b008ed41e4633684271e7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-cross-training-workout-beauty--the-beast/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-cross-training-workout-beauty-the-beast",
+      "id": "c24c313e89713ebc925e3829a7b9c27d591d9fac"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-cross-training-workout-disneys-encanto/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-cross-training-workout-disneys-encanto",
+      "id": "304682614849b3e0a861c115daa0f9d300049a85"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-cross-training-workout-disneys-frozen-2/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-cross-training-workout-disneys-frozen-2",
+      "id": "53481105201df2b0d0673359d55c3ecb7eec2678"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-cross-training-workout-hercules/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-cross-training-workout-hercules",
+      "id": "aee87b600a6f84d2c588885d9b34ce072dae395d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-cross-training-workout-star-wars-films/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-cross-training-workout-star-wars-films",
+      "id": "90c2d8e22fd99a19c3e96274443dfd451497f065"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-cross-training-workout-tangled/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-cross-training-workout-tangled",
+      "id": "9c048f7eb67a2fe6b533089b26570ed1ee719e13"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-cross-training-workout-the-lion-king/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-cross-training-workout-the-lion-king",
+      "id": "c45966941e9b9cbfb241ae018d742f9f022f684c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-cross-training-workout-the-little-mermaid/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-cross-training-workout-the-little-mermaid",
+      "id": "2f71abfcb47384796771d1230019e6b676352396"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-cross-training-workout-the-princess-and-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-cross-training-workout-the-princess-and-the",
+      "id": "6ff5ebd2d2bf1c3751de871c09331e54338f4dc7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-diy-get-in-the-spooky-spirit-with/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-diy-get-in-the-spooky-spirit-with",
+      "id": "5203488bb92fac14671091f1fd8c7e591b13dcc3"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-first-look-revealing-the-challenge-theme-for/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-first-look-revealing-the-challenge-theme-for",
+      "id": "c7739c10a41b9a5356c0a6e411c8f72a9488092f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-gift-guide-2022/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-gift-guide-2022",
+      "id": "6d82343e3af2ff573b9bb59266dc60ae520b1fb3"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-medal-reveal-2020-walt-disney-world-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-medal-reveal-2020-walt-disney-world-marathon",
+      "id": "d088f1d07aa994f2a8d9c0d9dca2b5951d3f7256"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-registration-101-tips-to-prepare-for-20192020/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-registration-101-tips-to-prepare-for-20192020",
+      "id": "c44c6f6be9f9db751588745606e0cbefa7a06365"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-registration-101-tips-to-prepare-for-20232024/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-registration-101-tips-to-prepare-for-20232024",
+      "id": "ad27be4b4d5a68a3bfc66cdfebed6c151679c3cd"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-registration-update/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-registration-update",
+      "id": "9c5f9937e70f3b365eb53c992491a20a7c10dacc"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-spotlight-meet-jeff-galloway/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-spotlight-meet-jeff-galloway",
+      "id": "a10a6b93ab50270222003844a46f50928204bf44"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-style-one-little-spark-of-running-inspiration/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-style-one-little-spark-of-running-inspiration",
+      "id": "0b57836094244a36b75da00edd618815022d00b7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-style-pirateinspired-running-shirt-tutorial/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-style-pirateinspired-running-shirt-tutorial",
+      "id": "777b32e0bde5e3e0f903cf8e343dc46a08970b6f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-style-villainous-training-shirt-tutorial/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-style-villainous-training-shirt-tutorial",
+      "id": "3531e835740946ae0d292a24c53dbf06df714914"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-throwback-celebrating-25-years-of-the-walt/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-throwback-celebrating-25-years-of-the-walt",
+      "id": "18f7f985253685f3a10eb532f21e83f9fb1808b7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-training-tips-with-adventhealth-foam-rolling-101/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-training-tips-with-adventhealth-foam-rolling-101",
+      "id": "4dfca0423174f8173e83b288d06f2148a466e6bd"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-training-tips-with-adventhealth-gear-up-for/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-training-tips-with-adventhealth-gear-up-for",
+      "id": "749a5f5f62b0740b6e5308bd3932848485ef58ef"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-training-tips-with-adventhealth-hydration-101/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-training-tips-with-adventhealth-hydration-101",
+      "id": "50fbba1867578d0dca9a3da510a6b8b14c8d83e9"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-training-tips-with-adventhealth-nutrition-101/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-training-tips-with-adventhealth-nutrition-101",
+      "id": "811725df52ef4f4453a39aca8c37e01967258306"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-training-tips-with-adventhealth-proper-warmup/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-training-tips-with-adventhealth-proper-warmup",
+      "id": "e645f908c9fc3437cbc42b48fa4c8410e8b8daa7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-virtual-series-at-home/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-virtual-series-at-home",
+      "id": "0699b08206b9f63f346ab89432b2e92a752ce4c9"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/rundisney-virtual-series/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/rundisney-virtual-series",
+      "id": "30c43b7751c0fc850d7a1d1cc7e5155f3429b31d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runner-diy-the-lion-kinginspired-exercise-mat/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runner-diy-the-lion-kinginspired-exercise-mat",
+      "id": "2965febebea0881aee4de38128c18692b30a92dd"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runner-recipes-with-character--a-goofy-smoothie/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runner-recipes-with-character-a-goofy-smoothie",
+      "id": "b9d7929f01c50d8e718cc7955929f426e38c8ce6"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runner-recipes-with-character--chewie-were-homemade/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runner-recipes-with-character-chewie-were-homemade",
+      "id": "6fdc7243bbf67ae37138843b1ddea46a7b27d1d7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runner-recipes-with-character--chocolate-chip-/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runner-recipes-with-character-chocolate-chip",
+      "id": "baf2844ca8fa0224e548819a01c4f4d0782b8c6c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runner-recipes-with-character--frozen-fruity-belle/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runner-recipes-with-character-frozen-fruity-belle",
+      "id": "59cd3a6c302b044b7e032e624a46d5db28bb7a8c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runner-recipes-with-character--green-grogu-smoothie/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runner-recipes-with-character-green-grogu-smoothie",
+      "id": "317b0deb458a4a509d3107839e7e9abd5369032b"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runner-recipes-with-character--mickey-mouse-potato/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runner-recipes-with-character-mickey-mouse-potato",
+      "id": "e456a2cae0f27cfab0eeab86e403b6526a050c74"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runner-recipes-with-character--untangled-fruit-roll/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runner-recipes-with-character-untangled-fruit-roll",
+      "id": "a37672bf607b95d4f250eef5a02a91438faa43b7"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runners-are-having-a-flurry-of-fun-during/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runners-are-having-a-flurry-of-fun-during",
+      "id": "547ceed2b0dd8b92b3ac51a91836a5554a6d8ac1"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runners-fulfilled-their-destiny-at-2018-star-wars/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runners-fulfilled-their-destiny-at-2018-star-wars",
+      "id": "bcfb664b419262f2797ec5e1902349ab3fdfd58a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runners-fulfilled-their-destiny-during-the-2021-virtual/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runners-fulfilled-their-destiny-during-the-2021-virtual",
+      "id": "62ae95c0d260bbe131e2bc2871e73c5fef80a69d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runners-had-a-ferociously-fun-time-during-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runners-had-a-ferociously-fun-time-during-the",
+      "id": "bc1c912d382d0f4a4daef44ac41d5a4bb01f775c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runners-had-a-wickedly-delicious-time-during-the-2020-virtual-disney-wine-dine-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runners-had-a-wickedly-delicious-time-during-the-2020-virtual-disney-wine-dine-half-marathon-weekend",
+      "id": "74d7c356f2468e3e41e35fb4992a6c7e764a4ab5"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runners-ran-their-happily-every-after-during-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runners-ran-their-happily-every-after-during-the",
+      "id": "6a7aa3a95c097841e3b6a935ed8c4992b204352c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/runners-sprung-into-magical-athome-miles-during-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/runners-sprung-into-magical-athome-miles-during-the",
+      "id": "c500afdbfd49b7bd9dd226e568dbd27cccd2204c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/running-as-a-guide-for-achilles-the-shift/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/running-as-a-guide-for-achilles-the-shift",
+      "id": "399a2e0d087ae27e95c899a9269be094032e21cc"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/running-as-a-miracle-maker-for-childrens-miracle/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/running-as-a-miracle-maker-for-childrens-miracle",
+      "id": "404b60a1a4b49f2835d75ab3f3e995fc25c9905a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/savor-the-taste-of-a-rundisney-race-with/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/savor-the-taste-of-a-rundisney-race-with",
+      "id": "0d1ba2af53cd81035e0c7ffddc2cfcfde80ca5b2"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/sealebrate-your-castaway-cay-challenge-accomplishments-aboard-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/sealebrate-your-castaway-cay-challenge-accomplishments-aboard-disney",
+      "id": "2c4725943e6c3b458e204bc8d562ebdba521a64c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/second-harvest-food-bank/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/second-harvest-food-bank",
+      "id": "ca0362ef9607ca15d5cf3fe6c20b804d65f26aea"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/see-how-far-youll-go-during-the-2020/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/see-how-far-youll-go-during-the-2020",
+      "id": "d1b8c741c02eb34229894049fbc378d5eb2af4fd"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/series-celebrates-fanfavorite-disney-parks-attractions/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/series-celebrates-fanfavorite-disney-parks-attractions",
+      "id": "d057757431047eefcf1f6c664f25489eaa8873e1"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/set-your-sights-on-training-for-the-2021/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/set-your-sights-on-training-for-the-2021",
+      "id": "a58783d8134a57eaef7a244f78a72fa165c1d437"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/shop-dine-and-celebrate-at-disney-springs-during/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/shop-dine-and-celebrate-at-disney-springs-during",
+      "id": "ff75393413576ea4c3407ebff660400387fc7f3f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/snacktacular-style-for-the-2024-rundisney-virtual-series/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/snacktacular-style-for-the-2024-rundisney-virtual-series",
+      "id": "c32510dd052e8668ff2ecb8cdaefdb0f619e2b60"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/spectators-guide-to-disney-wine--dine-half/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/spectators-guide-to-disney-wine-dine-half",
+      "id": "14c6c50ab29a8a892cb163a674cee7c4b1fe6035"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/spectators-guide/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/spectators-guide",
+      "id": "933e5c1cf7b3d0ec1b498bf89b6fa09e58c9876b"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/spring-into-walt-disney-world-fun-during-your/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/spring-into-walt-disney-world-fun-during-your",
+      "id": "3949a1868121902cf9189a460d087e166fe551a0"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/state-farm-celebrates-the-magic-of-good-neighbor/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/state-farm-celebrates-the-magic-of-good-neighbor",
+      "id": "d40f816ada9a061381f70e673512f532fef6051f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/storybook-style-at-2019-disney-princess-half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/storybook-style-at-2019-disney-princess-half-marathon",
+      "id": "23cce47166a1d0bf24bcfd47fb2a34579ed1366a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/stretch-out-your-miles-in-rundisney-style-with/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/stretch-out-your-miles-in-rundisney-style-with",
+      "id": "bbb5876d7c94ff1e65dcd54c42d883b691f93d4b"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/take-your-rundisney-experience-to-the-next-level/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/take-your-rundisney-experience-to-the-next-level",
+      "id": "58e1b8788c6a3dfa15ae2d7a9b0f64eef1c7a25a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/tasty-tips-to-prepare-your-appetite-for-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/tasty-tips-to-prepare-your-appetite-for-the",
+      "id": "25d6b7c5e2da77f2f50fd7f8763f5c45e9e44ffc"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/the-2020-disney-wine--dine-half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/the-2020-disney-wine-dine-half-marathon",
+      "id": "fe2a0bdf0422194d0a1afcab26a6760d2f2ff822"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/the-benefits-and-reasons-to-incorporate-cross-training/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/the-benefits-and-reasons-to-incorporate-cross-training",
+      "id": "bcb49dd72e3c084a9cbbc47c2485d675d184814d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/the-benefits-of-running-for-others/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/the-benefits-of-running-for-others",
+      "id": "b769d17196a38ff252a89ae157c39951545a5636"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/the-disney-villains-return-for-a-wickedly-delicious/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/the-disney-villains-return-for-a-wickedly-delicious",
+      "id": "7fc76dea8e126f7c87c0d80fda47b4b478cc4249"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/the-falcon-and-the-winter-soldier/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/the-falcon-and-the-winter-soldier",
+      "id": "194ddfffed5e7530b71084ca4937ad4f795c057d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/the-magic-is-calling-you-to-celebrate-the/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/the-magic-is-calling-you-to-celebrate-the",
+      "id": "c6012029ee51dcf9b17b5de2d291a1f87508fdb5"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/the-power-of-smart-training/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/the-power-of-smart-training",
+      "id": "f06e434add63be00e317b452c892ab26d90d760b"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/these-3-shokz-headphones-to-pair-perfectly-with/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/these-3-shokz-headphones-to-pair-perfectly-with",
+      "id": "87ee37dc372ce394f220d302158e961a4324b5e8"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/this-is-the-motivation-youre-looking-for-/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/this-is-the-motivation-youre-looking-for",
+      "id": "356866637eb7d8f7ed46c7ad49a8ef513dc9b2b2"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/throw-it-back-with-these-tunes-for-your/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/throw-it-back-with-these-tunes-for-your",
+      "id": "9d997036adc8ad7a95b210a3322aa5148792e125"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/tips-for-rundisney-races/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/tips-for-rundisney-races",
+      "id": "c308154321ed0749fa9ad4976b30e076ee86cc9c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/tips-for-using-disney-photopass-service-during-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/tips-for-using-disney-photopass-service-during-race",
+      "id": "f16f76f08f469f356261714a3accd3314380453f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/tips-on-staying-hydrated-on-race-day/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/tips-on-staying-hydrated-on-race-day",
+      "id": "02784cc52fe973f9c6f93eb7872795f8120e140d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/tips-to-turn-things-around/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/tips-to-turn-things-around",
+      "id": "70df55eedfabd7221b027f6e5318b21479997779"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/top-ways-to-chears-to-15-years-at/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/top-ways-to-chears-to-15-years-at",
+      "id": "573464074350d15f7e564600dd053cc47fcf663d"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/train-like-a-princess-with-rundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/train-like-a-princess-with-rundisney",
+      "id": "e00134f6f56c6607f2449acd0e08a8af39a15609"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/train-to-the-disney-beat--celebrate-world/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/train-to-the-disney-beat-celebrate-world",
+      "id": "d10d846a8e568f23eea8aa2ff5faf8da14fc6ffc"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/training-and-racing--with-a-group-or/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/training-and-racing-with-a-group-or",
+      "id": "dee1278b1fe530da6b39278dba0e8ed626479f61"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/training-for-your-first-rundisney-race-train-smarter/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/training-for-your-first-rundisney-race-train-smarter",
+      "id": "4666810b078d3f382d11efbab3a3ca84193b147e"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/training-mantras-from-a-galaxy-far-far-away/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/training-mantras-from-a-galaxy-far-far-away",
+      "id": "be9eea0fa411f154f0959fa6d4a28ed424e1cfe9"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/turn-things-up-during-your-global-running-day/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/turn-things-up-during-your-global-running-day",
+      "id": "168541d6bc6f5e3491fcdd8a9e69be80563193ff"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/turn-things-up-during-your-summertime-miles-with/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/turn-things-up-during-your-summertime-miles-with",
+      "id": "b434f751717462e7439d885bdb4ffa496b571598"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/unwrapping-a-first-look-at-rundisney-virtual-12ks/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/unwrapping-a-first-look-at-rundisney-virtual-12ks",
+      "id": "89f02723e063ee2ddb456f479632a724250ba288"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/update-on-rundisney-races-at-disneyland-resort/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/update-on-rundisney-races-at-disneyland-resort",
+      "id": "a301dc71440a1025c4f3ed65efd5d647752db68f"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/updated-wdw-virtual-queue/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/updated-wdw-virtual-queue",
+      "id": "68d09c889d163580f0539e69d28d3700fe6e18a9"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/virtual-princess-half/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/virtual-princess-half",
+      "id": "87e931ed470fcfcbe05b66a940cf3f227cff6be0"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/virtual-wdw-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/virtual-wdw-marathon",
+      "id": "84b86d0021a14a9566f8fb9983b54ba0269ad08e"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/walt-disney-world-marathon-training/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/walt-disney-world-marathon-training",
+      "id": "7d57ab8382f15a49a7ad513017cf7d88748485b9"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wdw-marathon-themes/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wdw-marathon-themes",
+      "id": "350043d94caadc761761f17e8e11667c94183f1a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wear-your-bayou-best-for-the-2022-disney/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wear-your-bayou-best-for-the-2022-disney",
+      "id": "89589530ac8549a6e03bd2f4878a50b83eabed06"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wear-your-earidescent-best-during-walt-disney-world/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wear-your-earidescent-best-during-walt-disney-world",
+      "id": "1ce6d5a911676adb5ae6a0964fc75a7f26907919"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/whip-whip-hooray-for-a-festive-rundisney-style/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/whip-whip-hooray-for-a-festive-rundisney-style",
+      "id": "f54b55f8030aaf8c1997f282bb222dee92d52cad"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wickedly-delicious-rundisney-style-for-the-virtual-2020/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wickedly-delicious-rundisney-style-for-the-virtual-2020",
+      "id": "e490931afbef086f1c1a91b886a5c32087186736"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wickedly-delicious-runner-recipes--an-apple-charcuterie/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wickedly-delicious-runner-recipes-an-apple-charcuterie",
+      "id": "ca61746367301edb39468756de81cf2411761e2b"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wickedly-delicious-runner-recipes--captain-hooks-pirate/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wickedly-delicious-runner-recipes-captain-hooks-pirate",
+      "id": "50afcae711715d20e2b6e13f0b3f92c27311d555"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wickedly-delicious-runner-recipes--kuzcos-impossible-groove/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wickedly-delicious-runner-recipes-kuzcos-impossible-groove",
+      "id": "32332b333dc42d1b38025ddc6e05916b5e9b012b"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wickedly-wise-training-mantras-from-the-disney-villains/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wickedly-wise-training-mantras-from-the-disney-villains",
+      "id": "166e1a79dab296fa706b24efc0df5deb3f303c44"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wine-dine-run--party-enjoy-a-delicious/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wine-dine-run-party-enjoy-a-delicious",
+      "id": "e0971522eb4d3908a965de2131119a05a1ec2709"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wine-dine-run-and-party-celebrate-your-accomplishments/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wine-dine-run-and-party-celebrate-your-accomplishments",
+      "id": "efbd3b992ce39ccf8cea4e536299ffc61c466926"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wine-dine-run-and-party-new-surprises-to/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wine-dine-run-and-party-new-surprises-to",
+      "id": "1fd5869964c2737ee64c86567106af1fd3907ced"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wine-dine-run-and-party-see-whats-in/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wine-dine-run-and-party-see-whats-in",
+      "id": "38a04730c747aa36e22aa0c4059236b846fb485a"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/winedinevirtual-training-tips-with-aftershokz/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/winedinevirtual-training-tips-with-aftershokz",
+      "id": "79b8e86f7f26bff7737a316ddebeccb569fd02bb"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/winter-runner-roundup/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/winter-runner-roundup",
+      "id": "32587cb5de367624451094950d317e825cb13e28"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/wirdvalentine/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/wirdvalentine",
+      "id": "65b766feff4f084fa51bbfc0e2e3a8488390818b"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/your-epic-guide-to-the-2019-star-wars/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/your-epic-guide-to-the-2019-star-wars",
+      "id": "80ddff65c306b01523ee05ebda326b4e57a0a52c"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/your-guide-to-2019-disney-princess-half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/your-guide-to-2019-disney-princess-half-marathon",
+      "id": "8d0154a7968d4891681afdfd5c283be6dad7c8be"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/your-guide-to-the-2019-walt-disney-world/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/your-guide-to-the-2019-walt-disney-world",
+      "id": "6bea92b9c0381a2cb32bd976b04f4d04d70db836"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/your-guide-to-the-2020-walt-disney-world/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/your-guide-to-the-2020-walt-disney-world",
+      "id": "a1de4219857dab2b037aaff6f18b31c62e6ebca9"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/your-official-rundisney-kids-race-guide-tips-for/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/your-official-rundisney-kids-race-guide-tips-for",
+      "id": "88d3af02762396297b997f68f3476cce3a026227"
+    },
+    {
+      "url": "https://www.rundisney.com/blog/your-royal-guide-to-the-2020-disney-princess/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/your-royal-guide-to-the-2020-disney-princess",
+      "id": "ab8e5b329327e18d7acfa9d700afcbde5da95db0"
+    },
+    {
+      "url": "https://www.rundisney.com/club-rundisney-members/",
+      "source": "SITEMAPS",
+      "targetPath": "/club-rundisney-members",
+      "id": "412d425df300be02e07e89a652767bc844d5f53f"
+    },
+    {
+      "url": "https://www.rundisney.com/club-rundisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/club-rundisney",
+      "id": "9ca55839c05be0e16dd6da2333d0f6f32e3c886b"
+    },
+    {
+      "url": "https://www.rundisney.com/coast-to-coast/",
+      "source": "SITEMAPS",
+      "targetPath": "/coast-to-coast",
+      "id": "4e856347359a09cf86b271c548a6d589a4983058"
+    },
+    {
+      "url": "https://www.rundisney.com/communication-consent/",
+      "source": "SITEMAPS",
+      "targetPath": "/communication-consent",
+      "id": "ea10daeaea81173bc993bf36025eae2c4a8a7ade"
+    },
+    {
+      "url": "https://www.rundisney.com/contact/",
+      "source": "SITEMAPS",
+      "targetPath": "/contact",
+      "id": "0dd4b38c40b50deca8fc39a5c3959588e0ddf866"
+    },
+    {
+      "url": "https://www.rundisney.com/email-signup/",
+      "source": "SITEMAPS",
+      "targetPath": "/email-signup",
+      "id": "22cacdec2649f6098b396e01a4a3403f469374d3"
+    },
+    {
+      "url": "https://www.rundisney.com/es-mx/about/",
+      "source": "SITEMAPS",
+      "targetPath": "/es-mx/about",
+      "id": "b3ee20e48a416b0fd995b09275487ae99ac6d541"
+    },
+    {
+      "url": "https://www.rundisney.com/es-mx/events/disneyworld/disneyworld-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/es-mx/events/disneyworld/disneyworld-marathon-weekend",
+      "id": "7b418977a381c977e83906d4da5f051eedf8671b"
+    },
+    {
+      "url": "https://www.rundisney.com/es-mx/events/disneyworld/disneyworld-marathon-weekend/events/5k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/es-mx/events/disneyworld/disneyworld-marathon-weekend/events/5k-race",
+      "id": "0139fa93c6d1412b51cf2572eab5b4fc0127fd66"
+    },
+    {
+      "url": "https://www.rundisney.com/es-mx/events/disneyworld/disneyworld-marathon-weekend/expo/",
+      "source": "SITEMAPS",
+      "targetPath": "/es-mx/events/disneyworld/disneyworld-marathon-weekend/expo",
+      "id": "e964c0d517376a2e0e48d10e1e5a1d1f3bedbb4e"
+    },
+    {
+      "url": "https://www.rundisney.com/es-mx/events/disneyworld/disneyworld-marathon-weekend/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/es-mx/events/disneyworld/disneyworld-marathon-weekend/race-policies",
+      "id": "6a14c2047a0a44a97441e909d12651c9571af85a"
+    },
+    {
+      "url": "https://www.rundisney.com/es-mx/events/disneyworld/disneyworld-marathon-weekend/runner-info/",
+      "source": "SITEMAPS",
+      "targetPath": "/es-mx/events/disneyworld/disneyworld-marathon-weekend/runner-info",
+      "id": "c55447b19d7d883b2f8b65b31d95e4d1121e84df"
+    },
+    {
+      "url": "https://www.rundisney.com/es-mx/events/disneyworld/disneyworld-marathon-weekend/spectator-information/",
+      "source": "SITEMAPS",
+      "targetPath": "/es-mx/events/disneyworld/disneyworld-marathon-weekend/spectator-information",
+      "id": "bfce455d703e44e1168542761b49a6932d60e1e3"
+    },
+    {
+      "url": "https://www.rundisney.com/events/",
+      "source": "SITEMAPS",
+      "targetPath": "/events",
+      "id": "6aa5b00ec6aea9553f074e5cd6e2824c763e3c7f"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland",
+      "id": "77f4f847c2ca15317f23f3829be314f5f3019722"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-half-marathon-weekend",
+      "id": "a443a753e20eef576b92144b336dce63e87aee1d"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/events/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-half-marathon-weekend/events",
+      "id": "9b29703bc8bd4548da0d221b805c7da1a329245a"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/events/10k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-half-marathon-weekend/events/10k-race",
+      "id": "86d61dacef8547010f04b655963c57a49869e76d"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/events/5k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-half-marathon-weekend/events/5k-race",
+      "id": "c7b6ca15b5e7c8be837139453a920139b343b7f3"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/events/challenges/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-half-marathon-weekend/events/challenges",
+      "id": "817dbecb2291fffae20e1aad87f1350ce770d382"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/events/half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-half-marathon-weekend/events/half-marathon",
+      "id": "831609fe2dafd450f0f934b0f932e3a13d68ddb6"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/events/kids-races/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-half-marathon-weekend/events/kids-races",
+      "id": "59025a9a7697ca14a84764a024d90b510de46a5b"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/events/yoga/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-half-marathon-weekend/events/yoga",
+      "id": "27e2de36a26f1bbc2d542f6333fc6f0bca3feca1"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/expo/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-half-marathon-weekend/expo",
+      "id": "839fa7885dd5ed179811621dd238f11088fe6909"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-half-marathon-weekend/race-policies",
+      "id": "46705742507dbee921d23c1f9f27f35c4e9c94fd"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/runner-info/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-half-marathon-weekend/runner-info",
+      "id": "b53b0941db45a7aa92c4b7ba4968c25cafe658ce"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-halloween-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-halloween-half-marathon-weekend",
+      "id": "144f401255cbb562e11e264b96c9f2d49427fa63"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-halloween-half-marathon-weekend/events/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-halloween-half-marathon-weekend/events",
+      "id": "17824a643ba6b92faa0e18c9078ff7639261d838"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-halloween-half-marathon-weekend/events/10k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-halloween-half-marathon-weekend/events/10k-race",
+      "id": "82e33c404e9d13285fc5190c8f0ad785bf8d547a"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-halloween-half-marathon-weekend/events/5k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-halloween-half-marathon-weekend/events/5k-race",
+      "id": "1ee2d3c413a129768c4a4e5cee5a15ef9d94e68a"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-halloween-half-marathon-weekend/events/challenges/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-halloween-half-marathon-weekend/events/challenges",
+      "id": "8d4a20389ecd072ecd34a9305f171c382a1577d3"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-halloween-half-marathon-weekend/events/half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-halloween-half-marathon-weekend/events/half-marathon",
+      "id": "26fc24da36516b0a3b002b47f188b9c1e18c9531"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-halloween-half-marathon-weekend/events/kids-races/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-halloween-half-marathon-weekend/events/kids-races",
+      "id": "aade39edae0e31a33145284faf077c7939d9b4b1"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-halloween-half-marathon-weekend/events/yoga/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-halloween-half-marathon-weekend/events/yoga",
+      "id": "74b95bbfd0e69171825978866e4b7f08f5e61473"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-halloween-half-marathon-weekend/expo/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-halloween-half-marathon-weekend/expo",
+      "id": "cf00bd6a5142991e26ce46e28430cbfd3e4690bd"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-halloween-half-marathon-weekend/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-halloween-half-marathon-weekend/race-policies",
+      "id": "72adac31f273e25f70759ad479162cab23616698"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyland/disneyland-halloween-half-marathon-weekend/runner-info/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyland/disneyland-halloween-half-marathon-weekend/runner-info",
+      "id": "2faae736338743545a17266fd07cb4f3e6b1a97f"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disney-princess-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disney-princess-half-marathon-weekend",
+      "id": "0e678792aeef314f4a81a3e325713ac230747737"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disney-princess-half-marathon-weekend/events/10k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disney-princess-half-marathon-weekend/events/10k-race",
+      "id": "828674ea8e533fca9d5935556c2c9c2ebac0920b"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disney-princess-half-marathon-weekend/events/5k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disney-princess-half-marathon-weekend/events/5k-race",
+      "id": "9133b9340f144908dcc7b03a8fbfbf027171b6aa"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disney-princess-half-marathon-weekend/events/challenges/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disney-princess-half-marathon-weekend/events/challenges",
+      "id": "398347671b167494ac2e9f6f8b937e30a4f105ac"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disney-princess-half-marathon-weekend/events/half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disney-princess-half-marathon-weekend/events/half-marathon",
+      "id": "c48180b1fc8cebadcd7d9ec76dab5d3b8ae4abd0"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disney-princess-half-marathon-weekend/events/yoga/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disney-princess-half-marathon-weekend/events/yoga",
+      "id": "0144e6a53fbe5a81a815a1122059cb438b719324"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disney-princess-half-marathon-weekend/expo/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disney-princess-half-marathon-weekend/expo",
+      "id": "c34dd7dad108ebe73aa901fcd2dbfdc3fdfb546d"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disney-princess-half-marathon-weekend/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disney-princess-half-marathon-weekend/race-policies",
+      "id": "393259f8104b01e583d41a140702c59224c805aa"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disney-princess-half-marathon-weekend/runner-info/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disney-princess-half-marathon-weekend/runner-info",
+      "id": "2adfcb6827d8ebc6dd3f32550e6cf642bd460f90"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disneyworld-marathon-weekend",
+      "id": "5ccbdab9430ed77489e287a5156a5ac43e48ca82"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/events/10k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disneyworld-marathon-weekend/events/10k-race",
+      "id": "bd91c98b333f178fd654cc4a7ddaef200382127a"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/events/5k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disneyworld-marathon-weekend/events/5k-race",
+      "id": "8dc4c45fd027a8861ebd1d2f89dfd8f97e4de82b"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/events/challenges/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disneyworld-marathon-weekend/events/challenges",
+      "id": "424d7af563af2367e724b3bcd08a4b128e8bad77"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/events/half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disneyworld-marathon-weekend/events/half-marathon",
+      "id": "f1a62c5d573d627e3785a62946d802e5444ac5cb"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/events/marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disneyworld-marathon-weekend/events/marathon",
+      "id": "bdcf0367991930c9e1e3cad60fecab8bcdf93739"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/expo/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disneyworld-marathon-weekend/expo",
+      "id": "23c5bd2092ff7495cddf08685b0f8a3bacbfce4a"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disneyworld-marathon-weekend/race-policies",
+      "id": "38e550bee6297ca2814af4f98151c631f2a8c506"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/runner-info/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/disneyworld-marathon-weekend/runner-info",
+      "id": "0d7ab18ad48d9146a3d1e114c35f40fa4d6bf265"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/springtime-surprise-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/springtime-surprise-weekend",
+      "id": "5d055f4988faafd3c9db7481acc2001f92d8b07d"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/springtime-surprise-weekend/events/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/springtime-surprise-weekend/events",
+      "id": "f54ff7d6548d4285c6da650e614b53d315495595"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/springtime-surprise-weekend/events/10-miler/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/springtime-surprise-weekend/events/10-miler",
+      "id": "77a33c2bbedd1ffaaadaba8f529745f6e32dd858"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/springtime-surprise-weekend/events/10k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/springtime-surprise-weekend/events/10k-race",
+      "id": "6557d22a1cd9994f1e1f9930f4308f663a80e1b3"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/springtime-surprise-weekend/events/5k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/springtime-surprise-weekend/events/5k-race",
+      "id": "2a1440075512f3bb9a19b9d5670ac5e35a3fa516"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/springtime-surprise-weekend/events/challenge/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/springtime-surprise-weekend/events/challenge",
+      "id": "bebdf5f70c98fcfc4ea15787dbdc32622d72b50c"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/springtime-surprise-weekend/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/springtime-surprise-weekend/race-policies",
+      "id": "399dbc04904ec8573cf59d8ab7e3fb7e21a31309"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/travel-providers-charities/disney-princess-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/travel-providers-charities/disney-princess-half-marathon-weekend",
+      "id": "17b3595695b8a1d93994a01665f33ac9725ded07"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/travel-providers-charities/disneyworld-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/travel-providers-charities/disneyworld-marathon-weekend",
+      "id": "1c1dddbab463bf248f49b3bf74e8c03ac4871dcd"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/travel-providers-charities/star-wars-rival-run-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/travel-providers-charities/star-wars-rival-run-weekend",
+      "id": "82e3deb7b90757b82ea679c606dc312fe7fe1e23"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/travel-providers-charities/wine-and-dine-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/travel-providers-charities/wine-and-dine-half-marathon-weekend",
+      "id": "7814b5059295ebd26e742563e9062b5181bc37db"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/wine-and-dine-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/wine-and-dine-half-marathon-weekend",
+      "id": "ba002896ecb7d0bd157bea320f48ac6652ee39e3"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/wine-and-dine-half-marathon-weekend/events/10k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/wine-and-dine-half-marathon-weekend/events/10k-race",
+      "id": "f60acb159fdcdbca4a093c852573909f5ce92f18"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/wine-and-dine-half-marathon-weekend/events/5k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/wine-and-dine-half-marathon-weekend/events/5k-race",
+      "id": "a0411cd17829557d9c30866cf15d5abd5ed0f0ed"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/wine-and-dine-half-marathon-weekend/events/challenges/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/wine-and-dine-half-marathon-weekend/events/challenges",
+      "id": "ea1cde92cfdfc05c61817c680fe25ca3cb8dffce"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/wine-and-dine-half-marathon-weekend/events/half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/wine-and-dine-half-marathon-weekend/events/half-marathon",
+      "id": "b929149b4bf858ad737e98fe5c444f178d8333bb"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/wine-and-dine-half-marathon-weekend/events/post-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/wine-and-dine-half-marathon-weekend/events/post-race",
+      "id": "1a3dcbbbb306861376539b35429e088d98650b44"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/wine-and-dine-half-marathon-weekend/expo/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/wine-and-dine-half-marathon-weekend/expo",
+      "id": "13681dccfefdc5076680f62df0c17eb26c08bcda"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/wine-and-dine-half-marathon-weekend/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/wine-and-dine-half-marathon-weekend/race-policies",
+      "id": "e68e02798b55d3be99edfce7055900ad3feb324b"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/wine-and-dine-half-marathon-weekend/runner-info/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/wine-and-dine-half-marathon-weekend/runner-info",
+      "id": "b45dcdb3b23becbec3668a58d7b43ffe26dcd67b"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/wine-and-dine-half-marathon-weekend/spectator-information/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/disneyworld/wine-and-dine-half-marathon-weekend/spectator-information",
+      "id": "fe302180e71b3fe020f24728ce1c45dc3aad0ded"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/virtual",
+      "id": "8eeb755c8693dcd55f1cd2f2450fc6090a37837f"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/12ks-of-christmas/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/virtual/12ks-of-christmas",
+      "id": "039cb9ae44769c8dc27b1d7fe044d95329a0b02e"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/12ks-of-christmas/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/virtual/12ks-of-christmas/race-policies",
+      "id": "c21058aa93039f118bc1a629cc7ee2473d6560bb"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/love-on-the-run/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/virtual/love-on-the-run",
+      "id": "d179f39812b66bf027df02af7e230608697af009"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/love-on-the-run/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/virtual/love-on-the-run/race-policies",
+      "id": "452708e1a381e848a1c06155ae1a59858f0c9d92"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/virtual-running-series/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/virtual/virtual-running-series",
+      "id": "a50c89a66919c41ab18597f2e6d7f9bdda26f198"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/virtual-running-series/events/race-one/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/virtual/virtual-running-series/events/race-one",
+      "id": "05d8ab7697d82e99072cd6538d01750ccd6ae214"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/virtual-running-series/events/race-three/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/virtual/virtual-running-series/events/race-three",
+      "id": "109443e806a1249ce06897109572c51f1d32ed5a"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/virtual-running-series/events/race-two/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/virtual/virtual-running-series/events/race-two",
+      "id": "d0e0aa6078281ec14c223949d4b70a135e6c9320"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/virtual-running-series/events/series/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/virtual/virtual-running-series/events/series",
+      "id": "e1baeb3fe14f2db7885fa95a540538ba4a9307a0"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/virtual-running-series/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/events/virtual/virtual-running-series/race-policies",
+      "id": "5f52ad2d287616dafa6e7b23aab6771fc59c60c8"
+    },
+    {
+      "url": "https://www.rundisney.com/exhibitors-vendors-info/",
+      "source": "SITEMAPS",
+      "targetPath": "/exhibitors-vendors-info",
+      "id": "c58d474fd3afb1327bb91bc3763199a1bada6b14"
+    },
+    {
+      "url": "https://www.rundisney.com/faq/",
+      "source": "SITEMAPS",
+      "targetPath": "/faq",
+      "id": "eb40b3f0cb53920d5dfde49602aa0b8cc67f8b10"
+    },
+    {
+      "url": "https://www.rundisney.com/fr-ca/about/",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/about",
+      "id": "891ce2210339f15e381d0f1652a99f77208396e8"
+    },
+    {
+      "url": "https://www.rundisney.com/fr-ca/events/disneyworld/disneyworld-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/events/disneyworld/disneyworld-marathon-weekend",
+      "id": "eb5abc2da6a384d1d11e284b52e74b1db077a2a0"
+    },
+    {
+      "url": "https://www.rundisney.com/fr-ca/events/disneyworld/disneyworld-marathon-weekend/events/5k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/events/disneyworld/disneyworld-marathon-weekend/events/5k-race",
+      "id": "6cf2290bbd14c569eddef25f12c029cac3b5d3e4"
+    },
+    {
+      "url": "https://www.rundisney.com/fr-ca/events/disneyworld/disneyworld-marathon-weekend/expo/",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/events/disneyworld/disneyworld-marathon-weekend/expo",
+      "id": "5bf793e17a68b27f0715ea8d00d10f9ac991e3b9"
+    },
+    {
+      "url": "https://www.rundisney.com/fr-ca/events/disneyworld/disneyworld-marathon-weekend/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/events/disneyworld/disneyworld-marathon-weekend/race-policies",
+      "id": "9b2fe3042fc2deb12cd04c3743245c1ef6bbf318"
+    },
+    {
+      "url": "https://www.rundisney.com/fr-ca/events/disneyworld/disneyworld-marathon-weekend/runner-info/",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/events/disneyworld/disneyworld-marathon-weekend/runner-info",
+      "id": "f7cdd7aa68012ad3fd1c50740bc445039ecae27d"
+    },
+    {
+      "url": "https://www.rundisney.com/fr-ca/events/disneyworld/disneyworld-marathon-weekend/spectator-information/",
+      "source": "SITEMAPS",
+      "targetPath": "/fr-ca/events/disneyworld/disneyworld-marathon-weekend/spectator-information",
+      "id": "8b95ca8bc5463416c6d489e83f76b22584c04e51"
+    },
+    {
+      "url": "https://www.rundisney.com/holiday-gifting/",
+      "source": "SITEMAPS",
+      "targetPath": "/holiday-gifting",
+      "id": "a3c79b6778b175cd8d3e4685c868e8252119da38"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyland/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyland",
+      "id": "1335f62cb36b5da6d5994bb8c9695607333fb751"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyland/travel-providers/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyland/travel-providers",
+      "id": "d061226f57727c03dd609fa6c68b33c3e09544c5"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyland/travel-providers/disney-princess-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyland/travel-providers/disney-princess-half-marathon-weekend",
+      "id": "408aaa19e5d7a6b64d0b19fc3f948a7f03fb87f1"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyland/travel-providers/disneyland-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyland/travel-providers/disneyland-half-marathon-weekend",
+      "id": "fc29c83d2f5d7d3b8b5ed46d9ee6ec7405128387"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyland/travel-providers/disneyland-halloween-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyland/travel-providers/disneyland-halloween-half-marathon-weekend",
+      "id": "caff94fa3a00b094215068f0ea7788bd48d46388"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyworld/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyworld",
+      "id": "1bf1812dc4f812bc8e311b660c3b4c04b4142ed3"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyworld/travel-providers/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyworld/travel-providers",
+      "id": "493b4af61ef4d226f70d218651c7ba8995d790fa"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyworld/travel-providers/disney-princess-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyworld/travel-providers/disney-princess-half-marathon-weekend",
+      "id": "1ccd44bfae65c5b580e73e01a65d35658fb574c8"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyworld/travel-providers/disneyworld-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyworld/travel-providers/disneyworld-marathon-weekend",
+      "id": "365e92a575061fcbfec5b66f4f6a50a83b1145f7"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyworld/travel-providers/springtime-surprise-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyworld/travel-providers/springtime-surprise-weekend",
+      "id": "3be272de982846ab7b5e483ce53996589c8612bf"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyworld/travel-providers/star-wars-rival-run-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyworld/travel-providers/star-wars-rival-run-weekend",
+      "id": "d6f76722f416a1a3f130328c714a84c1a3291c94"
+    },
+    {
+      "url": "https://www.rundisney.com/plan-your-trip/disneyworld/travel-providers/wine-and-dine-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/plan-your-trip/disneyworld/travel-providers/wine-and-dine-half-marathon-weekend",
+      "id": "fbe3255bf42cde003edb7ba6de13506b10538d6f"
+    },
+    {
+      "url": "https://www.rundisney.com/princess-last-chance-half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/princess-last-chance-half-marathon",
+      "id": "c240e51140c38dcff6665b59ebf23680e947e5b0"
+    },
+    {
+      "url": "https://www.rundisney.com/pt-br/about/",
+      "source": "SITEMAPS",
+      "targetPath": "/pt-br/about",
+      "id": "175570410d0973811a0f6724183a19cc14015640"
+    },
+    {
+      "url": "https://www.rundisney.com/pt-br/events/disneyworld/disneyworld-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/pt-br/events/disneyworld/disneyworld-marathon-weekend",
+      "id": "49b4af4fba5a96e0d5a210a5c95e2be38460c186"
+    },
+    {
+      "url": "https://www.rundisney.com/pt-br/events/disneyworld/disneyworld-marathon-weekend/events/5k-race/",
+      "source": "SITEMAPS",
+      "targetPath": "/pt-br/events/disneyworld/disneyworld-marathon-weekend/events/5k-race",
+      "id": "b4a9eb8583e26e570368840eaede6889a30d3a43"
+    },
+    {
+      "url": "https://www.rundisney.com/pt-br/events/disneyworld/disneyworld-marathon-weekend/expo/",
+      "source": "SITEMAPS",
+      "targetPath": "/pt-br/events/disneyworld/disneyworld-marathon-weekend/expo",
+      "id": "5c1150024515913c7c274bac2698e22d3cf2c8f3"
+    },
+    {
+      "url": "https://www.rundisney.com/pt-br/events/disneyworld/disneyworld-marathon-weekend/race-policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/pt-br/events/disneyworld/disneyworld-marathon-weekend/race-policies",
+      "id": "926de2fc61b43e03d8e1caa2fe0fcdb1b7172c35"
+    },
+    {
+      "url": "https://www.rundisney.com/pt-br/events/disneyworld/disneyworld-marathon-weekend/runner-info/",
+      "source": "SITEMAPS",
+      "targetPath": "/pt-br/events/disneyworld/disneyworld-marathon-weekend/runner-info",
+      "id": "ef2d3d896dd7b63f5a741b4326ccc71182ee4b44"
+    },
+    {
+      "url": "https://www.rundisney.com/pt-br/events/disneyworld/disneyworld-marathon-weekend/spectator-information/",
+      "source": "SITEMAPS",
+      "targetPath": "/pt-br/events/disneyworld/disneyworld-marathon-weekend/spectator-information",
+      "id": "3806a53eef0a8070fef7c3dbd4fd2f3e429ff3cb"
+    },
+    {
+      "url": "https://www.rundisney.com/race-season-calendar/",
+      "source": "SITEMAPS",
+      "targetPath": "/race-season-calendar",
+      "id": "c9d437ed88e44a6f6351c77f8badf1130baff58c"
+    },
+    {
+      "url": "https://www.rundisney.com/results/",
+      "source": "SITEMAPS",
+      "targetPath": "/results",
+      "id": "728172c5a1f5373a1be72399855d31aff736ce2b"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disney-princess-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disney-princess-half-marathon-weekend",
+      "id": "abe0835e2a12d28d263170a332a454ca56436953"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disney-princess-half-marathon-weekend/2017/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disney-princess-half-marathon-weekend/2017",
+      "id": "f48503fca698f715714a3992b9ef6e525170c29a"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disney-princess-half-marathon-weekend/2018/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disney-princess-half-marathon-weekend/2018",
+      "id": "d8e1cdae24bebddd6a908e538194dd0aca134262"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disney-princess-half-marathon-weekend/2019/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disney-princess-half-marathon-weekend/2019",
+      "id": "e20d8cd1c60ae1dfa6e5d6d8ad5aca198f0f7e85"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disney-princess-half-marathon-weekend/2020/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disney-princess-half-marathon-weekend/2020",
+      "id": "1a4f69c9c750de20e908f5543970d37880863088"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disney-princess-half-marathon-weekend/2022/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disney-princess-half-marathon-weekend/2022",
+      "id": "9e6300a0e943913c74103d774c47361513aa7d36"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disney-princess-half-marathon-weekend/2023/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disney-princess-half-marathon-weekend/2023",
+      "id": "6061f6fc5b6891703127218087bc71f030ea728c"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disney-princess-half-marathon-weekend/2024/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disney-princess-half-marathon-weekend/2024",
+      "id": "0e1a0f246f700521e5815064c3283f44a92dced8"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disney-princess-half-marathon-weekend/2025/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disney-princess-half-marathon-weekend/2025",
+      "id": "b1f083c146b0dda7d726dc85fbf0924929aa367c"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyland-half-marathon-weekend/2024/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyland-half-marathon-weekend/2024",
+      "id": "e5654bb3e499c3f7c21c5d67939d8d57887dd424"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyland-half-marathon-weekend/2025/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyland-half-marathon-weekend/2025",
+      "id": "b10e0a873109b2eb1ba03523b24c6506fad0ae8c"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyland-half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyland-half-marathon",
+      "id": "d68ef8f79401b8bcc0bac69e096bd078d2c2d6ea"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyland-half-marathon/2017/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyland-half-marathon/2017",
+      "id": "76c1dc07fdb56a1be3251d371490346b267eda64"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyland-halloween-half-marathon-weekend/2024/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyland-halloween-half-marathon-weekend/2024",
+      "id": "747cdaba0886a7f65bd2383059c3fbe407e1bb87"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyworld-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyworld-marathon-weekend",
+      "id": "622877216b4a1043d0fabe5fe25fc23d73ed957d"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyworld-marathon-weekend/2017/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyworld-marathon-weekend/2017",
+      "id": "53875ed0ff3f691c8eedf279d9b414e81610751e"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyworld-marathon-weekend/2018/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyworld-marathon-weekend/2018",
+      "id": "50835082add2627669761f64ed28ad6d6c58052c"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyworld-marathon-weekend/2019/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyworld-marathon-weekend/2019",
+      "id": "adc1170581cc86c8c500107e3787224b9c514c2d"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyworld-marathon-weekend/2020/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyworld-marathon-weekend/2020",
+      "id": "42939f21680e9a120f2f45aea6c4ba55f317450e"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyworld-marathon-weekend/2022/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyworld-marathon-weekend/2022",
+      "id": "eb2b22820b86c06a6d3b189879d836380c507816"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyworld-marathon-weekend/2023/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyworld-marathon-weekend/2023",
+      "id": "f8981e63374f913463bbaa3d913e5e765ca4bfca"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyworld-marathon-weekend/2024/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyworld-marathon-weekend/2024",
+      "id": "dc4c53c09edada0e3500878bc72b1743d70bcd1a"
+    },
+    {
+      "url": "https://www.rundisney.com/results/disneyworld-marathon-weekend/2025/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/disneyworld-marathon-weekend/2025",
+      "id": "4110813be528c6ab984d57234d9b187669333a54"
+    },
+    {
+      "url": "https://www.rundisney.com/results/springtime-surprise-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/springtime-surprise-weekend",
+      "id": "7e68e93fac484e0168804892b782436e64260270"
+    },
+    {
+      "url": "https://www.rundisney.com/results/springtime-surprise-weekend/2022/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/springtime-surprise-weekend/2022",
+      "id": "fd66f615654a7952c185e6ed3054186d2e60061c"
+    },
+    {
+      "url": "https://www.rundisney.com/results/springtime-surprise-weekend/2023/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/springtime-surprise-weekend/2023",
+      "id": "eef95707d802b71da1ca493c3faece0543d9738f"
+    },
+    {
+      "url": "https://www.rundisney.com/results/springtime-surprise-weekend/2024/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/springtime-surprise-weekend/2024",
+      "id": "9cec8a2e6c31dca4ea83c866b8a6731636920293"
+    },
+    {
+      "url": "https://www.rundisney.com/results/springtime-surprise-weekend/2025/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/springtime-surprise-weekend/2025",
+      "id": "a5e641b08c0535422951a62bbe78b86dd9a7e8c4"
+    },
+    {
+      "url": "https://www.rundisney.com/results/star-wars-half-marathon-light-side/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/star-wars-half-marathon-light-side",
+      "id": "4c1ca46fda7339b40d4bb510b8da1fe24b217f70"
+    },
+    {
+      "url": "https://www.rundisney.com/results/star-wars-half-marathon-light-side/2017/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/star-wars-half-marathon-light-side/2017",
+      "id": "72ae7ab486f3dc749cb67d14b338dd13a70839a8"
+    },
+    {
+      "url": "https://www.rundisney.com/results/star-wars-rival-run-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/star-wars-rival-run-weekend",
+      "id": "8493bd0f9070ed97c35ca7a412be7c59828d26f0"
+    },
+    {
+      "url": "https://www.rundisney.com/results/star-wars-rival-run-weekend/2019/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/star-wars-rival-run-weekend/2019",
+      "id": "1401cad08f98e03099e3539d2c15a6c63404328c"
+    },
+    {
+      "url": "https://www.rundisney.com/results/star-wars-wdw-half-marathon/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/star-wars-wdw-half-marathon",
+      "id": "028cbf6be6c0c7e01583e92a5fa8aca74c83eb0c"
+    },
+    {
+      "url": "https://www.rundisney.com/results/star-wars-wdw-half-marathon/2017/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/star-wars-wdw-half-marathon/2017",
+      "id": "75ff25f68004c7a6e5fbab6967368c049d1f14d7"
+    },
+    {
+      "url": "https://www.rundisney.com/results/star-wars-wdw-half-marathon/2018/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/star-wars-wdw-half-marathon/2018",
+      "id": "3fdcca1634ac65596f7b480d55764f6f3216d8a9"
+    },
+    {
+      "url": "https://www.rundisney.com/results/super-heroes-half-marathon/2017/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/super-heroes-half-marathon/2017",
+      "id": "ae9574047b7ec6cd2fbb5a1d55241515e9d7d856"
+    },
+    {
+      "url": "https://www.rundisney.com/results/tinker-bell-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/tinker-bell-half-marathon-weekend",
+      "id": "e150c50e214ecc85e53f339de97d3397876e620d"
+    },
+    {
+      "url": "https://www.rundisney.com/results/tinker-bell-half-marathon-weekend/2015/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/tinker-bell-half-marathon-weekend/2015",
+      "id": "2e1bedd80a29bd4ff92404bf0888d707297328ff"
+    },
+    {
+      "url": "https://www.rundisney.com/results/tinker-bell-half-marathon-weekend/2016/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/tinker-bell-half-marathon-weekend/2016",
+      "id": "abe03ca052e59c98cb695327f654711751570c02"
+    },
+    {
+      "url": "https://www.rundisney.com/results/tinker-bell-half-marathon-weekend/2017/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/tinker-bell-half-marathon-weekend/2017",
+      "id": "8c6a02a109427fe21fa7f37d6173eb668a86640f"
+    },
+    {
+      "url": "https://www.rundisney.com/results/wine-and-dine-half-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/wine-and-dine-half-marathon-weekend",
+      "id": "defdd543dd0aaf2104bd8578030f531494f41eb8"
+    },
+    {
+      "url": "https://www.rundisney.com/results/wine-and-dine-half-marathon-weekend/2016/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/wine-and-dine-half-marathon-weekend/2016",
+      "id": "5b88c7e4a5ddbc9c209027deb4396c2d8dbdbaa9"
+    },
+    {
+      "url": "https://www.rundisney.com/results/wine-and-dine-half-marathon-weekend/2017/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/wine-and-dine-half-marathon-weekend/2017",
+      "id": "469bea79039af26b66c041f3992bed037c31b168"
+    },
+    {
+      "url": "https://www.rundisney.com/results/wine-and-dine-half-marathon-weekend/2018/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/wine-and-dine-half-marathon-weekend/2018",
+      "id": "4d603719adca567b76d64155b7fe24a56be8b4e9"
+    },
+    {
+      "url": "https://www.rundisney.com/results/wine-and-dine-half-marathon-weekend/2019/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/wine-and-dine-half-marathon-weekend/2019",
+      "id": "1eaee01c6759dee067bca60da67d39a116d257bf"
+    },
+    {
+      "url": "https://www.rundisney.com/results/wine-and-dine-half-marathon-weekend/2021/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/wine-and-dine-half-marathon-weekend/2021",
+      "id": "a6993e89045942aeddf62d9f504495234507022b"
+    },
+    {
+      "url": "https://www.rundisney.com/results/wine-and-dine-half-marathon-weekend/2022/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/wine-and-dine-half-marathon-weekend/2022",
+      "id": "5303bab674a6d47bc5d1f7f96c614bed114c2f9d"
+    },
+    {
+      "url": "https://www.rundisney.com/results/wine-and-dine-half-marathon-weekend/2023/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/wine-and-dine-half-marathon-weekend/2023",
+      "id": "8f25d9f1a5f946cadbf81dac50369c8399bc971a"
+    },
+    {
+      "url": "https://www.rundisney.com/results/wine-and-dine-half-marathon-weekend/2024/",
+      "source": "SITEMAPS",
+      "targetPath": "/results/wine-and-dine-half-marathon-weekend/2024",
+      "id": "1194925b42283d3dfa3362d4bc5616edb4a45ecc"
+    },
+    {
+      "url": "https://www.rundisney.com/rundisney-gallery/",
+      "source": "SITEMAPS",
+      "targetPath": "/rundisney-gallery",
+      "id": "6f30e9799b0b65eae89e5eafdbe236d103e48eee"
+    },
+    {
+      "url": "https://www.rundisney.com/running-expert-jeff-galloway/",
+      "source": "SITEMAPS",
+      "targetPath": "/running-expert-jeff-galloway",
+      "id": "83f061848ca5269efc9181d56c21e19c8d1b0bc8"
+    },
+    {
+      "url": "https://www.rundisney.com/running-tips-race-day-prep/",
+      "source": "SITEMAPS",
+      "targetPath": "/running-tips-race-day-prep",
+      "id": "47d3cb7cd68570a444858b1966c0f592e4f925e9"
+    },
+    {
+      "url": "https://www.rundisney.com/running-training-programs/",
+      "source": "SITEMAPS",
+      "targetPath": "/running-training-programs",
+      "id": "0206a47e902ccf160e3a2f6b3c7b9a46013c1771"
+    },
+    {
+      "url": "https://www.rundisney.com/wdw-last-chance-marathon-weekend/",
+      "source": "SITEMAPS",
+      "targetPath": "/wdw-last-chance-marathon-weekend",
+      "id": "59c33a0c7f6fc263675cf6ca8dffe95f6c8f31b5"
+    },
+    {
+      "url": "https://www.rundisney.com/whyirunDisney/",
+      "source": "SITEMAPS",
+      "targetPath": "/whyirundisney",
+      "id": "68b53050a8eed485b6e1d04ead3832d6bdd855c1"
+    },
+    {
+      "url": "https://www.rundisney.com/whyirunDisney/thank-you/",
+      "source": "SITEMAPS",
+      "targetPath": "/whyirundisney/thank-you",
+      "id": "4d86fd134e296378458e0c3d47f0cb6137dc9828"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.rundisney.com/es-mx/events/disneyworld/disneyworld-marathon-weekend/events/",
+      "status": "301 Moved Permanently Redirect: https://www.rundisney.com/es-mx/events/disneyworld/disneyworld-marathon-weekend/events/5k-race/"
+    },
+    {
+      "url": "https://www.rundisney.com/annual-passholders/",
+      "status": "301 Moved Permanently Redirect: https://www.rundisney.com/events/"
+    },
+    {
+      "url": "https://www.rundisney.com/dvc-member/",
+      "status": "301 Moved Permanently Redirect: https://www.rundisney.com/events/"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/springtime-surprise-virtual/",
+      "status": "301 Moved Permanently Redirect: https://www.rundisney.com/events/"
+    },
+    {
+      "url": "https://www.rundisney.com/golden-oak-residents/",
+      "status": "301 Moved Permanently Redirect: https://www.rundisney.com/events/"
+    },
+    {
+      "url": "https://www.rundisney.com/events/disneyworld/star-wars-rival-run-weekend/",
+      "status": "301 Moved Permanently Redirect: https://www.rundisney.com/events/"
+    },
+    {
+      "url": "https://www.rundisney.com/star-wars-rival-run-weekend-last-chance/",
+      "status": "301 Moved Permanently Redirect: https://www.rundisney.com/events/disneyworld/star-wars-rival-run-weekend/"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/princess-virtual/",
+      "status": "301 Moved Permanently Redirect: https://www.rundisney.com/events/virtual/"
+    },
+    {
+      "url": "https://www.rundisney.com/events/virtual/princess-virtual/race-policies/",
+      "status": "301 Moved Permanently Redirect: https://www.rundisney.com/events/virtual/"
+    },
+    {
+      "url": "https://www.rundisney.com/fr-ca/events/disneyworld/disneyworld-marathon-weekend/events/",
+      "status": "301 Moved Permanently Redirect: https://www.rundisney.com/fr-ca/events/disneyworld/disneyworld-marathon-weekend/events/5k-race/"
+    },
+    {
+      "url": "https://www.rundisney.com/pt-br/events/disneyworld/disneyworld-marathon-weekend/events/",
+      "status": "301 Moved Permanently Redirect: https://www.rundisney.com/pt-br/events/disneyworld/disneyworld-marathon-weekend/events/5k-race/"
+    }
+  ]
+}
